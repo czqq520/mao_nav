@@ -2,16 +2,15 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "我的常用",
+      "name": "强推项目",
       "icon": "💥",
       "order": 0,
       "sites": [
         {
           "id": "site-1752857783656",
-          "name": "OpenAI",
-          "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
-          "icon": "/sitelogo/chatgpt.com.ico"
+          "name": "网盘拉新【陪跑】",
+          "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
+          "description": "网盘拉新，副业陪跑。"
         },
         {
           "id": "linux-do",
@@ -481,7 +480,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "百万秋：AiNB.US",
-  "search": "bing",
-  "_fileSha": "def462b46768c340069910311ea653742681cacf"
+  "title": "百万秋：AiNB.US"
 }
