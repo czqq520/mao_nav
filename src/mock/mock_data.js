@@ -45,16 +45,16 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "AI智能",
+      "name": " 高效Ai工具",
       "icon": "🤖",
       "order": 1,
       "sites": [
         {
           "id": "chatgpt",
-          "name": "ChatGPT",
-          "url": "https://chat.openai.com",
-          "description": "OpenAI对话AI助手",
-          "icon": "/sitelogo/chat.openai.com.ico"
+          "name": "边界Ai平台",
+          "url": "https://yyai8.com/?invite_code=5A74C2",
+          "description": "ChatGPT、Claude、MJ、SD",
+          "icon": "https://file.1foo.com/2023/10/20/17dcd076f1d9bf17dbb371d0f4d61a59.png"
         },
         {
           "id": "claude",
