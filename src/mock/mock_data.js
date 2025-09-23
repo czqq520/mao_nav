@@ -17,7 +17,7 @@ export const mockData = {
           "id": "linux-do",
           "name": "抖音系列【拉新】",
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
-          "description": "抖音系列【拉新】：即梦Ai、剪映、醒图等等，众多APP拉新的平台。",
+          "description": "即梦Ai、剪映、醒图等等。",
           "icon": "https://ainb.us/logo.png"
         },
         {
