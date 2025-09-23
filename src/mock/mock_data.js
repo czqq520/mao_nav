@@ -94,17 +94,10 @@ export const mockData = {
       "sites": [
         {
           "id": "cloudflare",
-          "name": "Cloudflare",
-          "url": "https://www.cloudflare.com",
-          "description": "全球CDN和网络安全服务",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
-        {
-          "id": "vercel",
-          "name": "Vercel",
-          "url": "https://vercel.com",
-          "description": "前端部署平台",
-          "icon": "/sitelogo/vercel.com.ico"
+          "name": "全球高清实况摄像头",
+          "url": "https://www.skylinewebcams.com/",
+          "description": "全球各国景点摄像头、直播",
+          "icon": "https://ainb.us/sitelogo/vercel.com.ico"
         },
         {
           "id": "aws",
