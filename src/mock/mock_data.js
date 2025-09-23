@@ -15,10 +15,10 @@ export const mockData = {
         },
         {
           "id": "linux-do",
-          "name": "Linux.do",
-          "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
-          "icon": "/sitelogo/linux.do.ico"
+          "name": "抖音系列【拉新】",
+          "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
+          "description": "抖音系列【拉新】：即梦Ai、剪映、醒图等等，众多APP拉新的平台。",
+          "icon": "https://ainb.us/logo.png"
         },
         {
           "id": "site-1752649007053",
@@ -481,6 +481,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Ai牛逼：AiNB.US",
-  "_fileSha": "bec50df97cf4a3c09f978032513e19ca62690ade"
+  "title": "百万秋：AiNB.US"
 }
