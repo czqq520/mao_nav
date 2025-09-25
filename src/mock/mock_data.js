@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
           "description": "即梦Ai、剪映、醒图等等。",
           "icon": "https://ainb.us/logo.png"
+        },
+        {
+          "id": "site-1758798970988",
+          "name": "手机卡代理",
+          "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
+          "description": "",
+          "icon": "https://ainb.us/logo.png"
         }
       ]
     },
@@ -69,6 +76,13 @@ export const mockData = {
           "id": "site-1758789941529",
           "name": "央视力荐342部儿童纪录片",
           "url": "https://www.riskbird.com/",
+          "description": "",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "site-1758799011556",
+          "name": "B站充电视频",
+          "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
           "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
