@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "强推项目【必看】👇",
+      "name": "强推副业【必看】👇",
       "icon": "💥",
       "order": 0,
       "sites": [
