@@ -81,7 +81,7 @@ export const mockData = {
         },
         {
           "id": "site-1758799011556",
-          "name": "B站付费充电合集",
+          "name": "B站付费充电视频合集",
           "url": "https://pan.quark.cn/s/3d626f87dad3",
           "description": "1.4TB，转存自己需要的！",
           "icon": "/sitelogo/cloud.tencent.com.ico"
