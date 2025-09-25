@@ -76,14 +76,14 @@ export const mockData = {
           "id": "site-1758789941529",
           "name": "央视力荐342部儿童纪录片",
           "url": "https://pan.quark.cn/s/9b3dafc9f28c",
-          "description": "",
+          "description": "3.6TB，转存自己需要的！",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
           "id": "site-1758799011556",
-          "name": "B站充电视频",
+          "name": "B站付费充电合集",
           "url": "https://pan.quark.cn/s/3d626f87dad3",
-          "description": "",
+          "description": "1.4TB，转存自己需要的！",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
