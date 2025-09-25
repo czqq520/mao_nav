@@ -82,7 +82,7 @@ export const mockData = {
         {
           "id": "site-1758799011556",
           "name": "B站充电视频",
-          "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
+          "url": "https://pan.quark.cn/s/3d626f87dad3",
           "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
