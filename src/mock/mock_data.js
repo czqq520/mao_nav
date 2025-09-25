@@ -94,10 +94,10 @@ export const mockData = {
       "sites": [
         {
           "id": "cloudflare",
-          "name": "全球高清实况摄像头",
-          "url": "https://www.skylinewebcams.com/",
-          "description": "全球各国景点摄像头、直播",
-          "icon": "https://ainb.us/sitelogo/vercel.com.ico"
+          "name": "恒大歌舞",
+          "url": "https://pan.quark.cn/s/3d360a530335#/list/share",
+          "description": "恒大歌舞",
+          "icon": "https://g.alicdn.com/uc-cloud-drive-web-system/cloud-drive-web/4.5.66/assets/f4271e505075e024f5074fe1e8944374.svg"
         },
         {
           "id": "aws",
