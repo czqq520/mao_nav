@@ -22,7 +22,7 @@ export const mockData = {
         },
         {
           "id": "linux-do",
-          "name": "抖音系列【拉新】",
+          "name": "抖音系列拉新【项目】",
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
           "description": "即梦Ai、剪映、醒图等等。",
           "icon": "https://ainb.us/logo.png"
@@ -110,6 +110,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Ai牛逼：Ainb.us",
-  "_fileSha": "5cb2d1e7a106b45030106c0987cf99ed5e8acd31"
+  "title": "百万秋：AiNB.US"
 }
