@@ -64,7 +64,15 @@ export const mockData = {
       "icon": "📁",
       "name": "学习资源",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1758789941529",
+          "name": "测试",
+          "url": "https://www.riskbird.com/",
+          "description": "",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
+        }
+      ]
     }
   ],
   "title": "百万秋：AiNB.US"
