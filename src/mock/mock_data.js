@@ -8,7 +8,7 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1752857783656",
-          "name": "网盘系列拉新【陪跑】",
+          "name": "网盘拉新【陪跑】",
           "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
           "description": "网盘拉新，副业陪跑。",
           "icon": "https://ainb.us/logo.png"
@@ -22,7 +22,7 @@ export const mockData = {
         },
         {
           "id": "linux-do",
-          "name": "抖音系列拉新【项目】",
+          "name": "抖音拉新【项目】",
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
           "description": "即梦Ai、剪映、醒图等等。",
           "icon": "https://ainb.us/logo.png"
@@ -110,6 +110,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Ai牛逼：Ainb.us",
-  "_fileSha": "ebe7923cbe324f8430e03555f4a80f38624acc3d"
+  "title": "百万秋：AiNB.US"
 }
