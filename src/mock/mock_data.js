@@ -23,7 +23,7 @@ export const mockData = {
         {
           "id": "site-1758806525294",
           "name": "大流量卡【店铺】",
-          "url": "https://h5.lot-ml.com/ProductEn/Shop/7c9effc03c28a45c",
+          "url": "https://h5.lot-ml.com/ProductEn/Index/7c9effc03c28a45c",
           "description": "29元/月：200G通用流量！",
           "icon": "https://ainb.us/logo.png"
         }
