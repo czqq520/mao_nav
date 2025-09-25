@@ -22,9 +22,9 @@ export const mockData = {
         },
         {
           "id": "site-1758806525294",
-          "name": "网盘教程",
-          "url": "http://123bw.cn/?p=679",
-          "description": "",
+          "name": "大流量卡【平台】",
+          "url": "https://h5.lot-ml.com/ProductEn/Shop/7c9effc03c28a45c",
+          "description": "29元/月：200G通用流量！",
           "icon": "https://ainb.us/logo.png"
         }
       ]
