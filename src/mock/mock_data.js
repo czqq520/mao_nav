@@ -58,6 +58,13 @@ export const mockData = {
           "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1758783689123",
+      "icon": "📁",
+      "name": "学习资源",
+      "order": 3,
+      "sites": []
     }
   ],
   "title": "百万秋：AiNB.US"
