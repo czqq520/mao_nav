@@ -14,6 +14,13 @@ export const mockData = {
           "icon": "https://ainb.us/logo.png"
         },
         {
+          "id": "site-1758806525294",
+          "name": "网盘教程",
+          "url": "http://123bw.cn/?p=679",
+          "description": "",
+          "icon": "https://ainb.us/logo.png"
+        },
+        {
           "id": "linux-do",
           "name": "抖音系列【拉新】",
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
@@ -103,6 +110,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Ai牛逼：Ainb.us",
-  "_fileSha": "5ad8bec17430639c4f1bd0307503334b7486dba1"
+  "title": "百万秋：AiNB.US"
 }
