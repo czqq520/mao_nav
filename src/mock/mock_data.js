@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
           "description": "",
           "icon": "https://ainb.us/logo.png"
+        },
+        {
+          "id": "site-1758805991268",
+          "name": "123百万",
+          "url": "http://123bw.cn/",
+          "description": "",
+          "icon": "https://ainb.us/logo.png"
         }
       ]
     },
@@ -96,7 +103,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "百万秋丨Ai牛逼：Ainb.us",
-  "_fileSha": "c9772673a5ad4930ca667b9f5cf656e516170bb7",
-  "search": "baidu"
+  "title": "百万秋：AiNB.US"
 }
