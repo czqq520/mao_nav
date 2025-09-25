@@ -39,7 +39,7 @@ export const mockData = {
           "id": "chatgpt",
           "name": "边界Ai平台",
           "url": "https://yyai8.com/?invite_code=5A74C2",
-          "description": "集成ChatGPT、Claude、MJ、SD等",
+          "description": "ChatGPT、Claude、MJ、SD。",
           "icon": "https://file.1foo.com/2023/10/20/17dcd076f1d9bf17dbb371d0f4d61a59.png"
         }
       ]
