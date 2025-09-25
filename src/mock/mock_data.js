@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "强推项目【必看】",
+      "name": "强推项目【必看】⬇️",
       "icon": "💥",
       "order": 0,
       "sites": [
@@ -45,7 +45,7 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": " 高效工具",
+      "name": " 高效工具⬇️",
       "icon": "🤖",
       "order": 1,
       "sites": [
@@ -88,7 +88,7 @@ export const mockData = {
     },
     {
       "id": "cloud",
-      "name": "热门资源",
+      "name": "热门资源⬇️",
       "icon": "🌐",
       "order": 2,
       "sites": [
