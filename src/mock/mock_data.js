@@ -26,20 +26,6 @@ export const mockData = {
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
           "description": "即梦Ai、剪映、醒图等等。",
           "icon": "https://ainb.us/logo.png"
-        },
-        {
-          "id": "site-1758798970988",
-          "name": "手机卡代理",
-          "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
-          "description": "",
-          "icon": "https://ainb.us/logo.png"
-        },
-        {
-          "id": "site-1758805991268",
-          "name": "123百万",
-          "url": "http://123bw.cn/",
-          "description": "",
-          "icon": "https://ainb.us/logo.png"
         }
       ]
     },
@@ -53,7 +39,7 @@ export const mockData = {
           "id": "chatgpt",
           "name": "边界Ai平台",
           "url": "https://yyai8.com/?invite_code=5A74C2",
-          "description": "ChatGPT、Claude、MJ、SD",
+          "description": "集成ChatGPT、Claude、MJ、SD等",
           "icon": "https://file.1foo.com/2023/10/20/17dcd076f1d9bf17dbb371d0f4d61a59.png"
         }
       ]
@@ -110,7 +96,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "牛逼：Ainb.us",
-  "_fileSha": "b4fd117dbebdcaa543935dfb9d896a335fcc6e36",
-  "search": "baidu"
+  "title": "百万秋：AiNB.US"
 }
