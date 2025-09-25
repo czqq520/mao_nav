@@ -74,9 +74,9 @@ export const mockData = {
         },
         {
           "id": "site-1758791063717",
-          "name": "测试一下测试一下测试一下测试一下",
+          "name": "测试一下测试一下测试一下",
           "url": "https://www.riskbird.com/",
-          "description": "测试一下测试一下测试一下测试一下",
+          "description": "测试一下测试一下",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
