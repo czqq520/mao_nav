@@ -8,7 +8,7 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1752857783656",
-          "name": "网盘拉新【陪跑】",
+          "name": "网盘系列拉新【陪跑】",
           "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
           "description": "网盘拉新，副业陪跑。",
           "icon": "https://ainb.us/logo.png"
