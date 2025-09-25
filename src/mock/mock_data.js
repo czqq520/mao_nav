@@ -67,7 +67,7 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1758789941529",
-          "name": "测试",
+          "name": "央视力荐342部儿童纪录片",
           "url": "https://www.riskbird.com/",
           "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
