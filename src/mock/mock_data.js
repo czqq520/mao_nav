@@ -39,7 +39,7 @@ export const mockData = {
           "id": "chatgpt",
           "name": "边界Ai平台",
           "url": "https://yyai8.com/?invite_code=5A74C2",
-          "description": "ChatGPT、Claude、MJ、SD。",
+          "description": "ChatGPT、Claude、MJ、SD",
           "icon": "https://file.1foo.com/2023/10/20/17dcd076f1d9bf17dbb371d0f4d61a59.png"
         }
       ]
@@ -96,6 +96,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Ainb.us",
-  "_fileSha": "cb7ae9e72bc6c86f26f4016a23f4f061c23c9872"
+  "title": "百万秋：AiNB.US"
 }
