@@ -69,7 +69,7 @@ export const mockData = {
     {
       "id": "category-1758783689123",
       "icon": "📁",
-      "name": "学习资源",
+      "name": "学习资源👇",
       "order": 3,
       "sites": [
         {
@@ -96,6 +96,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "Ai牛逼：Ainb.us",
-  "_fileSha": "173c2807384814654b1668c254ce576b363936bb"
+  "title": "百万秋：AiNB.US"
 }
