@@ -251,22 +251,22 @@ const searchEngines = {
   google: {
     url: 'https://www.google.com/search?q=',
     icon: googleLogo,
-    placeholder: 'Google (点logo切换搜索引擎'
+    placeholder: 'Google '
   },
   baidu: {
     url: 'https://www.baidu.com/s?wd=',
     icon: baiduLogo,
-    placeholder: '百度一下(点logo切换搜索引擎'
+    placeholder: '百度一下'
   },
   bing: {
     url: 'https://www.bing.com/search?q=',
     icon: bingLogo,
-    placeholder: 'Bing (点logo切换搜索引擎)'
+    placeholder: 'Bing '
   },
   duckduckgo: {
     url: 'https://duckduckgo.com/?q=',
     icon: duckLogo,
-    placeholder: 'DuckDuckGo (点logo切换搜索引擎)'
+    placeholder: 'DuckDuckGo '
   }
 }
 
