@@ -251,22 +251,22 @@ const searchEngines = {
   google: {
     url: 'https://www.google.com/search?q=',
     icon: googleLogo,
-    placeholder: 'Google '
+    placeholder: '微信：baiwan910 '
   },
   baidu: {
     url: 'https://www.baidu.com/s?wd=',
     icon: baiduLogo,
-    placeholder: '百度一下'
+    placeholder: '微信：baiwan910'
   },
   bing: {
     url: 'https://www.bing.com/search?q=',
     icon: bingLogo,
-    placeholder: 'Bing '
+    placeholder: '微信：baiwan910 '
   },
   duckduckgo: {
     url: 'https://duckduckgo.com/?q=',
     icon: duckLogo,
-    placeholder: 'DuckDuckGo '
+    placeholder: '微信：baiwan910 '
   }
 }
 
