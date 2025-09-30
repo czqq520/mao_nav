@@ -63,15 +63,7 @@ export const mockData = {
           "url": "https://aws.amazon.com",
           "description": "亚马逊云服务",
           "icon": "/sitelogo/cloud.tencent.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1758783689123",
-      "icon": "📁",
-      "name": "学习资源👇",
-      "order": 3,
-      "sites": [
+        },
         {
           "id": "site-1758789941529",
           "name": "央视力荐342部儿童纪录片",
@@ -85,7 +77,15 @@ export const mockData = {
           "url": "https://pan.quark.cn/s/3d626f87dad3",
           "description": "1.4TB，转存自己需要的！",
           "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
+        }
+      ]
+    },
+    {
+      "id": "category-1758783689123",
+      "icon": "📁",
+      "name": "学习资源👇",
+      "order": 3,
+      "sites": [
         {
           "id": "site-1758791063717",
           "name": "测试一下测试一下测试一下",
