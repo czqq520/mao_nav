@@ -19,13 +19,6 @@ export const mockData = {
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
           "description": "即梦Ai、剪映、醒图等等。",
           "icon": "https://ainb.us/logo.png"
-        },
-        {
-          "id": "site-1758806525294",
-          "name": "大流量卡【店铺】",
-          "url": "https://h5.lot-ml.com/ProductEn/Index/7c9effc03c28a45c",
-          "description": "29元/月：200G通用流量！",
-          "icon": "https://ainb.us/logo.png"
         }
       ]
     },
