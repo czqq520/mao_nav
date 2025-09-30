@@ -94,8 +94,22 @@ export const mockData = {
           "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1759217000034",
+      "icon": "📱",
+      "name": "Ai电商工具",
+      "order": 4,
+      "sites": [
+        {
+          "id": "site-1759217685531",
+          "name": "羚珑",
+          "url": "https://ling.jd.com/",
+          "description": "京东旗下官方平台",
+          "icon": "https://ainb.us/logo.png"
+        }
+      ]
     }
   ],
-  "title": "公众号：百万秋",
-  "_fileSha": "30439614a96ceb5de03e7632e2d80f661a897457"
+  "title": "公众号：百万秋"
 }
