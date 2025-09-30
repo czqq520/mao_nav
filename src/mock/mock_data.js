@@ -41,6 +41,13 @@ export const mockData = {
           "url": "https://yyai8.com/?invite_code=5A74C2",
           "description": "ChatGPT、Claude、MJ、SD",
           "icon": "https://file.1foo.com/2023/10/20/17dcd076f1d9bf17dbb371d0f4d61a59.png"
+        },
+        {
+          "id": "site-1759224622324",
+          "name": "Ai提示词",
+          "url": "https://w5ey5apxgc.feishu.cn/wiki/K1yqwwtRCihYldkBW4fchv1LnY3?sheet=797c6c",
+          "description": "秋秋整理！微：baiwan910",
+          "icon": "https://ainb.us/logo.png"
         }
       ]
     },
@@ -76,21 +83,6 @@ export const mockData = {
           "name": "B站付费充电视频合集",
           "url": "https://pan.quark.cn/s/3d626f87dad3",
           "description": "1.4TB，转存自己需要的！",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        }
-      ]
-    },
-    {
-      "id": "category-1758783689123",
-      "icon": "📁",
-      "name": "学习资源👇",
-      "order": 3,
-      "sites": [
-        {
-          "id": "site-1758791063717",
-          "name": "测试一下测试一下测试一下",
-          "url": "https://www.riskbird.com/",
-          "description": "测试一下测试一下",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
