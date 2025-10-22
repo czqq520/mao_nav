@@ -29,18 +29,18 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "chatgpt",
-          "name": "最全Ai平台",
-          "url": "https://yyai8.com/?invite_code=5A74C2",
-          "description": "ChatGPT、Claude、MJ、SD",
-          "icon": "https://file.1foo.com/2023/10/20/17dcd076f1d9bf17dbb371d0f4d61a59.png"
-        },
-        {
           "id": "site-1759224622324",
           "name": "Ai提示词",
           "url": "https://w5ey5apxgc.feishu.cn/wiki/K1yqwwtRCihYldkBW4fchv1LnY3?sheet=797c6c",
           "description": "秋秋整理！微：baiwan910",
           "icon": "https://ainb.us/logo.png"
+        },
+        {
+          "id": "chatgpt",
+          "name": "最全Ai平台",
+          "url": "https://yyai8.com/?invite_code=5A74C2",
+          "description": "ChatGPT、Claude、MJ、SD",
+          "icon": "https://file.1foo.com/2023/10/20/17dcd076f1d9bf17dbb371d0f4d61a59.png"
         }
       ]
     },
