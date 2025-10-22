@@ -24,7 +24,7 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": " 高效工具👇",
+      "name": "Ai提示词丨Ai工具👇",
       "icon": "🤖",
       "order": 1,
       "sites": [
@@ -81,19 +81,18 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1759217000034",
-      "icon": "📱",
-      "name": "Ai电商工具",
+      "id": "category-1761117928853",
+      "icon": "💼",
+      "name": "影视资源👇",
+      "order": 3,
+      "sites": []
+    },
+    {
+      "id": "category-1761117964018",
+      "icon": "📁",
+      "name": "学习资源👇",
       "order": 4,
-      "sites": [
-        {
-          "id": "site-1759217685531",
-          "name": "羚珑",
-          "url": "https://ling.jd.com/",
-          "description": "京东旗下官方平台",
-          "icon": "https://ainb.us/logo.png"
-        }
-      ]
+      "sites": []
     }
   ],
   "title": "公众号：百万秋"
