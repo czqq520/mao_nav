@@ -7,17 +7,24 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
+          "id": "site-1761403374550",
+          "name": "网盘拉新【平台】",
+          "url": "https://jht.xingpan.js.cn/h5/index.html?invite_code=U6M5WP#/pages/index/index/index?t=1761403196",
+          "description": "百度、夸克、迅雷。分享网盘资料=赚米！",
+          "icon": "https://ainb.us/logo.png"
+        },
+        {
           "id": "site-1752857783656",
           "name": "网盘拉新【陪跑】",
           "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
-          "description": "夸克、迅雷，项目陪跑。",
+          "description": "加入陪跑训练营、陪跑、赚米！",
           "icon": "https://ainb.us/logo.png"
         },
         {
           "id": "linux-do",
           "name": "抖音拉新【平台】",
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
-          "description": "即梦Ai、剪映、醒图等等。",
+          "description": "在抖音推广抖音旗下的豆包、剪映、即梦等APP！",
           "icon": "https://ainb.us/logo.png"
         }
       ]
