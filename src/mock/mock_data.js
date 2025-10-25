@@ -14,17 +14,17 @@ export const mockData = {
           "icon": "https://ainb.us/logo.png"
         },
         {
-          "id": "site-1752857783656",
-          "name": "网盘拉新【陪跑】",
-          "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
-          "description": "加入陪跑训练营、陪跑、赚米！",
-          "icon": "https://ainb.us/logo.png"
-        },
-        {
           "id": "linux-do",
           "name": "抖音拉新【平台】",
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
           "description": "豆包、剪映、即梦等抖音拉新！",
+          "icon": "https://ainb.us/logo.png"
+        },
+        {
+          "id": "site-1752857783656",
+          "name": "网盘拉新【陪跑】",
+          "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
+          "description": "加入陪跑训练营、陪跑、赚米！",
           "icon": "https://ainb.us/logo.png"
         }
       ]
