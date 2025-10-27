@@ -31,7 +31,7 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "Ai提示词丨Ai工具👇",
+      "name": "工具大全👇注：为避免屏蔽，请去浏览器打开 AiNb.us",
       "icon": "🤖",
       "order": 1,
       "sites": [
