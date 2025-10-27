@@ -92,7 +92,15 @@ export const mockData = {
       "icon": "💼",
       "name": "影视资源👇",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1761572637858",
+          "name": "1",
+          "url": "https://sub-1.smjcdh.top/smjc/api/v1/client/subscribe?token=c06763e963e4cd6193d380dd6d0bc7b1",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1761117964018",
