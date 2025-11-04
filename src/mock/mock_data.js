@@ -5,7 +5,15 @@ export const mockData = {
       "icon": "📱",
       "name": "抖音系列拉新：在抖音发布：即梦、剪映、醒图、等使用视频！",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1762248183674",
+          "name": "抖音拉新平台",
+          "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
+          "description": "点击注册",
+          "icon": "https://ainb.us/logo.png"
+        }
+      ]
     },
     {
       "id": "my-favorites",
