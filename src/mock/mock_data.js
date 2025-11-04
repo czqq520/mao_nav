@@ -30,10 +30,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1762247288442",
+      "icon": "📱",
+      "name": "注：为避免屏蔽，请去浏览器打开 AiNb.us",
+      "order": 1,
+      "sites": []
+    },
+    {
       "id": "ai-tools",
-      "name": "工具大全👇注：为避免屏蔽，请去浏览器打开 AiNb.us",
+      "name": "工具大全👇",
       "icon": "🤖",
-      "order": 3,
+      "order": 2,
       "sites": [
         {
           "id": "site-1759224622324",
@@ -55,7 +62,7 @@ export const mockData = {
       "id": "cloud",
       "name": "热门资源👇",
       "icon": "🌐",
-      "order": 4,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -91,7 +98,7 @@ export const mockData = {
       "id": "category-1761117928853",
       "icon": "💼",
       "name": "影视资源👇",
-      "order": 6,
+      "order": 4,
       "sites": [
         {
           "id": "site-1761572637858",
@@ -106,21 +113,14 @@ export const mockData = {
       "id": "category-1761117964018",
       "icon": "📁",
       "name": "学习资源👇",
-      "order": 8,
+      "order": 5,
       "sites": []
     },
     {
       "id": "category-1761118456697",
       "icon": "💼",
       "name": "飞书文档👇",
-      "order": 10,
-      "sites": []
-    },
-    {
-      "id": "category-1762247288442",
-      "icon": "📱",
-      "name": "注：为避免屏蔽，请去浏览器打开 AiNb.us",
-      "order": 2,
+      "order": 6,
       "sites": []
     }
   ],
