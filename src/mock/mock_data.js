@@ -1,10 +1,17 @@
 export const mockData = {
   "categories": [
     {
+      "id": "category-1762247288442",
+      "icon": "📱",
+      "name": "抖音系列拉新：在抖音发布：即梦、剪映、醒图、等使用视频！",
+      "order": 0,
+      "sites": []
+    },
+    {
       "id": "my-favorites",
       "name": "强推副业【必看】👇",
       "icon": "💥",
-      "order": 0,
+      "order": 1,
       "sites": [
         {
           "id": "site-1761403374550",
@@ -28,13 +35,6 @@ export const mockData = {
           "icon": "https://ainb.us/logo.png"
         }
       ]
-    },
-    {
-      "id": "category-1762247288442",
-      "icon": "📱",
-      "name": "注：为避免屏蔽，请去浏览器打开 AiNb.us",
-      "order": 1,
-      "sites": []
     },
     {
       "id": "ai-tools",
