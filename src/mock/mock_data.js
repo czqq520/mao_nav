@@ -39,8 +39,8 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "工具大全👇",
-      "icon": "🤖",
+      "name": "工具箱👇",
+      "icon": "💼",
       "order": 2,
       "sites": [
         {
@@ -62,7 +62,7 @@ export const mockData = {
     {
       "id": "cloud",
       "name": "热门资源👇",
-      "icon": "🌐",
+      "icon": "📁",
       "order": 3,
       "sites": [
         {
@@ -97,7 +97,7 @@ export const mockData = {
     },
     {
       "id": "category-1761117928853",
-      "icon": "💼",
+      "icon": "📁",
       "name": "影视资源👇",
       "order": 4,
       "sites": [
@@ -119,7 +119,7 @@ export const mockData = {
     },
     {
       "id": "category-1761118456697",
-      "icon": "💼",
+      "icon": "📚",
       "name": "飞书文档👇",
       "order": 6,
       "sites": []
