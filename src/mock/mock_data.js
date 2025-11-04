@@ -8,9 +8,9 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1762248183674",
-          "name": "抖音拉新平台",
+          "name": "抖音拉新【平台】",
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
-          "description": "点击注册",
+          "description": "豆包、剪映、即梦等抖音拉新！",
           "icon": "https://ainb.us/logo.png"
         }
       ]
@@ -26,13 +26,6 @@ export const mockData = {
           "name": "网盘拉新【平台】",
           "url": "https://jht.xingpan.js.cn/h5/index.html?invite_code=U6M5WP#/pages/index/index/index?t=1761403196",
           "description": "百度、夸克、迅雷等网盘赚米！",
-          "icon": "https://ainb.us/logo.png"
-        },
-        {
-          "id": "linux-do",
-          "name": "抖音拉新【平台】",
-          "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
-          "description": "豆包、剪映、即梦等抖音拉新！",
           "icon": "https://ainb.us/logo.png"
         },
         {
