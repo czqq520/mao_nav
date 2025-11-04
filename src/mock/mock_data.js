@@ -3,7 +3,7 @@ export const mockData = {
     {
       "id": "category-1762247288442",
       "icon": "💥",
-      "name": "副业项目【必看】👇",
+      "name": "抖音副业【必看】👇",
       "order": 0,
       "sites": [
         {
@@ -17,7 +17,7 @@ export const mockData = {
     },
     {
       "id": "my-favorites",
-      "name": "副业项目【必看】👇",
+      "name": "网盘副业【必看】👇",
       "icon": "💥",
       "order": 1,
       "sites": [
