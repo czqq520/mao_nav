@@ -41,6 +41,13 @@ export const mockData = {
           "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
           "description": "加入陪跑训练营、陪跑、赚米",
           "icon": "https://ainb.us/logo.png"
+        },
+        {
+          "id": "site-1762315098916",
+          "name": "二维码【注册】",
+          "url": "https://tu.ainb.us/api/rfile/微信图片_20251105115210_55_65.jpg",
+          "description": "微信扫码注册！",
+          "icon": "https://ainb.us/logo.png"
         }
       ]
     },
