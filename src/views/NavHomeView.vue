@@ -207,7 +207,7 @@
 
             <div class="footer-bottom">
               <p>&copy; {{ new Date().getFullYear() }} Ai牛逼- 由 <a href="https://123bw.cn" target="_blank" rel="noopener noreferrer">maodeyu180</a> 用 ❤️ 制作</p>
-              <p class="footer-tech">基于 Vue.js 构建 | <a href="https://github.com/maodeyu180/mao_nav" target="_blank" rel="noopener noreferrer">查看源代码</a></p>
+              <p class="footer-tech">基于 Vue.js 构建 | <a href="https://123bw.cn" target="_blank" rel="noopener noreferrer">查看源代码</a></p>
             </div>
           </footer>
         </div>
@@ -413,7 +413,7 @@ const scrollToCategoryMobile = (categoryId) => {
 
 // 打开GitHub项目页面
 const openGitHub = () => {
-  window.open('https://github.com/maodeyu180/mao_nav', '_blank')
+  window.open('https://123bw.cn', '_blank')
 }
 
 // 组件挂载时获取数据
