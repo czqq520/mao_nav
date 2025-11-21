@@ -61,7 +61,7 @@ export const mockData = {
           "id": "site-1763712942531",
           "name": "宝可梦加速器",
           "url": "https://love1.go52pokemon.com/#/register?code=CqCVklhZ",
-          "description": "国外流量：ChatGPT、油管、ins、X等",
+          "description": "国外流量：ChatGPT、油管等",
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
