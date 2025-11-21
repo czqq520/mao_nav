@@ -51,6 +51,13 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
+          "id": "site-1763714506187",
+          "name": "宝可梦丨加速器",
+          "url": "https://love1.go52pokemon.com/#/register?code=CqCVklhZ",
+          "description": "国外流量：看油管、GPT等！",
+          "icon": "www.cloudflare.com.ico"
+        },
+        {
           "id": "site-1759224622324",
           "name": "Ai提示词",
           "url": "https://w5ey5apxgc.feishu.cn/wiki/K1yqwwtRCihYldkBW4fchv1LnY3?sheet=797c6c",
