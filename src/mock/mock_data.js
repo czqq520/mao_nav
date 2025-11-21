@@ -36,13 +36,6 @@ export const mockData = {
           "icon": "https://ainb.us/logo.png"
         },
         {
-          "id": "site-1752857783656",
-          "name": "网盘拉新【陪跑】",
-          "url": "https://yuntui.huazhuanapp.cn/#/pages/pan-news?accId=8XA3D&inviterCode=PN9D67",
-          "description": "加入陪跑训练营、陪跑、赚米",
-          "icon": "https://ainb.us/logo.png"
-        },
-        {
           "id": "site-1762315098916",
           "name": "二维码【注册】",
           "url": "https://tu.ainb.us/api/rfile/微信图片_20251105115210_55_65.jpg",
@@ -57,13 +50,6 @@ export const mockData = {
       "icon": "💼",
       "order": 2,
       "sites": [
-        {
-          "id": "site-1763712942531",
-          "name": "宝可梦加速器",
-          "url": "https://love1.go52pokemon.com/#/register?code=CqCVklhZ",
-          "description": "国外流量：ChatGPT、油管等",
-          "icon": "/sitelogo/www.cloudflare.com.ico"
-        },
         {
           "id": "site-1759224622324",
           "name": "Ai提示词",
