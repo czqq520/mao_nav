@@ -70,6 +70,12 @@ export const mockData = {
           "url": "https://yyai8.com/?invite_code=5A74C2",
           "description": "ChatGPT、Claude、MJ、SD",
           "icon": "https://file.1foo.com/2023/10/20/17dcd076f1d9bf17dbb371d0f4d61a59.png"
+        },
+        {
+          "id": "site-1763712942531",
+          "name": "宝可梦加速器",
+          "url": "https://love1.go52pokemon.com/#/register?code=CqCVklhZ",
+          "description": "国外流量：油管、ins、X等"
         }
       ]
     },
