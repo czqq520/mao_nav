@@ -33,14 +33,14 @@ export const mockData = {
           "name": "网盘拉新【平台】",
           "url": "https://jht.xingpan.js.cn/h5/index.html?invite_code=U6M5WP#/pages/index/index/index?t=1761403196",
           "description": "百度、夸克、迅雷等网盘赚米",
-          "icon": "https://ainb.us/logo.png"
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1762315098916",
           "name": "二维码【注册】",
           "url": "https://tu.ainb.us/api/rfile/微信图片_20251105115210_55_65.jpg",
           "description": "微信扫码注册！",
-          "icon": "https://ainb.us/logo.png"
+          "icon": "https://123bw.cn/logo.png"
         }
       ]
     },
