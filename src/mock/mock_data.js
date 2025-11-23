@@ -11,14 +11,14 @@ export const mockData = {
           "name": "抖音拉新【平台】",
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
           "description": "豆包、剪映、即梦等抖音拉新",
-          "icon": "https://ainb.us/logo.png"
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1762315021805",
           "name": "二维码【注册】",
           "url": "https://tu.ainb.us/api/rfile/微信图片_20251105115209_54_65.jpg",
           "description": "微信扫码注册！",
-          "icon": "https://ainb.us/logo.png"
+          "icon": "https://123bw.cn/logo.png"
         }
       ]
     },
