@@ -59,10 +59,10 @@ export const mockData = {
         },
         {
           "id": "site-1759224622324",
-          "name": "Ai提示词",
-          "url": "https://w5ey5apxgc.feishu.cn/wiki/K1yqwwtRCihYldkBW4fchv1LnY3?sheet=797c6c",
+          "name": "Ai牛逼丨提示词",
+          "url": "https://tishici.apifox.cn",
           "description": "秋秋整理！微：baiwan910",
-          "icon": "https://ainb.us/logo.png"
+          "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
           "id": "chatgpt",
