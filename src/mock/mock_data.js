@@ -51,10 +51,10 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
-          "id": "site-1763714506187",
-          "name": "宝可梦丨加速器",
-          "url": "https://love1.go52pokemon.com/#/register?code=CqCVklhZ",
-          "description": "国外流量：看油管、GPT等！",
+          "id": "chatgpt",
+          "name": "Ai牛逼",
+          "url": "https://ainb.us",
+          "description": "ChatGPT、Claude、MJ、SD",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
@@ -65,10 +65,10 @@ export const mockData = {
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
-          "id": "chatgpt",
-          "name": "Ai牛逼",
-          "url": "https://ainb.us",
-          "description": "ChatGPT、Claude、MJ、SD",
+          "id": "site-1763714506187",
+          "name": "宝可梦丨加速器",
+          "url": "https://love1.go52pokemon.com/#/register?code=CqCVklhZ",
+          "description": "国外流量：看油管、GPT等！",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
