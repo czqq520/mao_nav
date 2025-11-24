@@ -55,7 +55,7 @@ export const mockData = {
           "name": "宝可梦丨加速器",
           "url": "https://love1.go52pokemon.com/#/register?code=CqCVklhZ",
           "description": "国外流量：看油管、GPT等！",
-          "icon": "www.cloudflare.com.ico"
+          "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
           "id": "site-1759224622324",
@@ -66,10 +66,10 @@ export const mockData = {
         },
         {
           "id": "chatgpt",
-          "name": "最全Ai平台",
-          "url": "https://yyai8.com/?invite_code=5A74C2",
+          "name": "Ai牛逼",
+          "url": "https://ainb.us",
           "description": "ChatGPT、Claude、MJ、SD",
-          "icon": "https://file.1foo.com/2023/10/20/17dcd076f1d9bf17dbb371d0f4d61a59.png"
+          "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
     },
