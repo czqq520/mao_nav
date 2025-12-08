@@ -70,6 +70,13 @@ export const mockData = {
           "url": "https://love1.go52pokemon.com/#/register?code=CqCVklhZ",
           "description": "国外流量：看油管、GPT等！",
           "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "site-1765161255985",
+          "name": "接码平台",
+          "url": "https://123bw.cn/",
+          "description": "接验证码",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
     },
