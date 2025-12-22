@@ -118,8 +118,8 @@ export const mockData = {
     },
     {
       "id": "category-1761117928853",
-      "icon": "📁",
-      "name": "影视资源👇",
+      "icon": "🌐",
+      "name": "网站分享👇",
       "order": 4,
       "sites": [
         {
@@ -130,13 +130,6 @@ export const mockData = {
           "icon": ""
         }
       ]
-    },
-    {
-      "id": "category-1761117964018",
-      "icon": "📁",
-      "name": "学习资源👇",
-      "order": 5,
-      "sites": []
     },
     {
       "id": "category-1761118456697",
