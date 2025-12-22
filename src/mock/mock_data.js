@@ -10,7 +10,7 @@ export const mockData = {
           "id": "site-1762248183674",
           "name": "抖音拉新【注册】",
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
-          "description": "豆包、剪映、即梦等抖音拉新",
+          "description": "豆包、剪映、即梦等抖音赚米",
           "icon": "https://123bw.cn/logo.png"
         }
       ]
