@@ -12,13 +12,6 @@ export const mockData = {
           "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
           "description": "豆包、剪映、即梦等抖音拉新",
           "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1762315021805",
-          "name": "操作【教程】",
-          "url": "https://tu.ainb.us/api/rfile/微信图片_20251105115209_54_65.jpg",
-          "description": "操作教程！",
-          "icon": "https://123bw.cn/logo.png"
         }
       ]
     },
@@ -54,14 +47,14 @@ export const mockData = {
           "id": "chatgpt",
           "name": "Ai牛逼【平台】",
           "url": "https://ainb.us",
-          "description": "500+Ai大模型平台！",
+          "description": "网址：Ainb.us",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
           "id": "site-1759224622324",
           "name": "Ai牛逼丨提示词",
           "url": "https://tishici.us",
-          "description": "秋秋整理！微：baiwan910",
+          "description": "网址：tishici.us",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
