@@ -67,8 +67,8 @@ export const mockData = {
         {
           "id": "site-1765161255985",
           "name": "接码平台",
-          "url": "https://123bw.cn/",
-          "description": "接验证码",
+          "url": "http://www.uomsg.com/appweb/signUp.html?inviter=1x5lhu2p",
+          "description": "帮你接验证码",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
