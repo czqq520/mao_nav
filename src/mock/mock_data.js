@@ -60,7 +60,7 @@ export const mockData = {
         {
           "id": "site-1759224622324",
           "name": "Ai牛逼丨提示词",
-          "url": "https://tishici.apifox.cn",
+          "url": "https://tishici.us",
           "description": "秋秋整理！微：baiwan910",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
