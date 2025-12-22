@@ -61,7 +61,7 @@ export const mockData = {
           "id": "site-1763714506187",
           "name": "宝可梦丨梯子",
           "url": "https://love.p6m6.com/#/register?code=CqCVklhZ",
-          "description": "懂得都懂：看油管、ins、tiktok等！",
+          "description": "懂得都懂：油管、ins、tiktok…",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
