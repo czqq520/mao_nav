@@ -59,9 +59,9 @@ export const mockData = {
         },
         {
           "id": "site-1763714506187",
-          "name": "宝可梦丨加速器",
-          "url": "https://love1.go52pokemon.com/#/register?code=CqCVklhZ",
-          "description": "国外流量：看油管、GPT等！",
+          "name": "宝可梦丨梯子",
+          "url": "https://love.p6m6.com/#/register?code=CqCVklhZ",
+          "description": "懂得都懂：看油管、ins、tiktok等！",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
