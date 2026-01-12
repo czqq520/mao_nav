@@ -1,23 +1,8 @@
 export const mockData = {
   "categories": [
     {
-      "id": "category-1762247288442",
-      "icon": "💥",
-      "name": "1️⃣抖音副业【必看】👇",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1762248183674",
-          "name": "抖音拉新【注册】",
-          "url": "https://shent.youpengw.com/h5/index.html?invite_code=PWl6aG19#/pages/promote/index",
-          "description": "豆包、剪映、即梦等抖音赚米",
-          "icon": "https://123bw.cn/logo.png"
-        }
-      ]
-    },
-    {
       "id": "my-favorites",
-      "name": "2️⃣网盘副业【必看】👇",
+      "name": "网盘副业【必看】👇",
       "icon": "💥",
       "order": 1,
       "sites": [
