@@ -158,6 +158,13 @@ export const mockData = {
           "url": "https://msmy.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1781941635562",
+          "name": "飞搜侠",
+          "url": "https://www.feisoo.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
