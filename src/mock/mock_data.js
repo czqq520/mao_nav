@@ -132,9 +132,9 @@ export const mockData = {
         },
         {
           "id": "site-1758789941529",
-          "name": "央视力荐342部儿童纪录片",
-          "url": "https://pan.quark.cn/s/9b3dafc9f28c",
-          "description": "3.6TB，转存自己需要的！",
+          "name": "ins查看器",
+          "url": "https://www.instokviewer.com/zh-CN",
+          "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
