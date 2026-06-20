@@ -49,7 +49,15 @@ export const mockData = {
       "icon": "🎮",
       "name": "Ai平台👇",
       "order": 2,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1781940756321",
+          "name": "太极Ai",
+          "url": "https://www.taijiai666.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "ai-tools",
@@ -216,7 +224,15 @@ export const mockData = {
       "icon": "☁️",
       "name": "其他👇",
       "order": 10,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1781940972465",
+          "name": "lol战绩查询",
+          "url": "https://fa8.pw/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "公众号：百万秋"
