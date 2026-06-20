@@ -119,20 +119,22 @@ export const mockData = {
           "id": "site-1781917776541",
           "name": "AIDIR创作社区",
           "url": "https://my.feishu.cn/wiki/LKINwC7IGiB9QNkINNvcdbi3nsc",
-          "description": ""
+          "description": "",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
           "id": "site-1781917822359",
           "name": "通往AIGC之路",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
-          "description": ""
+          "description": "",
+          "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
           "id": "site-1781917860574",
           "name": "职场人备胎计划",
           "url": "https://xuqiwei1986.feishu.cn/wiki/ZPkSwAwhRibRFPkPXWRcKE6jn3e",
           "description": "",
-          "icon": ""
+          "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
     }
