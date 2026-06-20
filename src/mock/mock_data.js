@@ -114,10 +114,28 @@ export const mockData = {
       "icon": "📚",
       "name": "飞书文档👇",
       "order": 6,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1781917776541",
+          "name": "AIDIR创作社区",
+          "url": "https://my.feishu.cn/wiki/LKINwC7IGiB9QNkINNvcdbi3nsc",
+          "description": ""
+        },
+        {
+          "id": "site-1781917822359",
+          "name": "通往AIGC之路",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
+          "description": ""
+        },
+        {
+          "id": "site-1781917860574",
+          "name": "职场人备胎计划",
+          "url": "https://xuqiwei1986.feishu.cn/wiki/ZPkSwAwhRibRFPkPXWRcKE6jn3e",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
-  "title": "公众号：百万秋",
-  "_fileSha": "047773cd4779ee175a6cc02a215324e37ebdfab7",
-  "search": "baidu"
+  "title": "公众号：百万秋"
 }
