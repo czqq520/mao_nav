@@ -2,9 +2,9 @@ export const mockData = {
   "categories": [
     {
       "id": "my-favorites",
-      "name": "网盘副业【必看】👇",
+      "name": "个人收藏【必看】👇",
       "icon": "💥",
-      "order": 10,
+      "order": 0,
       "sites": [
         {
           "id": "site-1761403374550",
@@ -24,9 +24,9 @@ export const mockData = {
     },
     {
       "id": "ai-tools",
-      "name": "Ai平台👇",
+      "name": "Ai创作台👇",
       "icon": "💼",
-      "order": 20,
+      "order": 1,
       "sites": [
         {
           "id": "chatgpt",
@@ -59,10 +59,17 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1781920183818",
+      "icon": "📚",
+      "name": "Ai提示词👇",
+      "order": 2,
+      "sites": []
+    },
+    {
       "id": "cloud",
-      "name": "热门资源👇",
+      "name": "网页工具👇",
       "icon": "📁",
-      "order": 30,
+      "order": 3,
       "sites": [
         {
           "id": "cloudflare",
@@ -97,8 +104,8 @@ export const mockData = {
     {
       "id": "category-1761117928853",
       "icon": "🌐",
-      "name": "网站分享👇",
-      "order": 40,
+      "name": "资源网站👇",
+      "order": 4,
       "sites": [
         {
           "id": "site-1761572637858",
@@ -113,7 +120,7 @@ export const mockData = {
       "id": "category-1761118456697",
       "icon": "📚",
       "name": "飞书文档👇",
-      "order": 50,
+      "order": 5,
       "sites": [
         {
           "id": "site-1781917776541",
@@ -141,8 +148,8 @@ export const mockData = {
     {
       "id": "category-1781918114539",
       "icon": "💼",
-      "name": "跨境导航",
-      "order": 60,
+      "name": "跨境导航👇",
+      "order": 6,
       "sites": [
         {
           "id": "site-1781918144691",
@@ -152,13 +159,6 @@ export const mockData = {
           "icon": ""
         }
       ]
-    },
-    {
-      "id": "category-1781920239877",
-      "icon": "📁",
-      "name": "Ai提示词👇",
-      "order": 21,
-      "sites": []
     }
   ],
   "title": "公众号：百万秋"
