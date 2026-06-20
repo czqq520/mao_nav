@@ -215,6 +215,13 @@ export const mockData = {
           "url": "https://xuqiwei1986.feishu.cn/wiki/ZPkSwAwhRibRFPkPXWRcKE6jn3e",
           "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "site-1781943197153",
+          "name": "万象Ai实验室",
+          "url": "https://yunyinghui.feishu.cn/wiki/WhelwZnxQi55mpkOzatc3Xran5b",
+          "description": "",
+          "icon": ""
         }
       ]
     },
