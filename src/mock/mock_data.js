@@ -60,7 +60,7 @@ export const mockData = {
     },
     {
       "id": "cloud",
-      "name": "网页工具👇",
+      "name": "热门资源👇",
       "icon": "📁",
       "order": 30,
       "sites": [
@@ -97,7 +97,7 @@ export const mockData = {
     {
       "id": "category-1761117928853",
       "icon": "🌐",
-      "name": "资源网站👇",
+      "name": "网站分享👇",
       "order": 40,
       "sites": [
         {
@@ -141,7 +141,7 @@ export const mockData = {
     {
       "id": "category-1781918114539",
       "icon": "💼",
-      "name": "跨境导航👇",
+      "name": "跨境导航",
       "order": 60,
       "sites": [
         {
@@ -154,8 +154,8 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1781920183818",
-      "icon": "📚",
+      "id": "category-1781920239877",
+      "icon": "📁",
       "name": "Ai提示词👇",
       "order": 21,
       "sites": []
