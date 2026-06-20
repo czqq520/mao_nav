@@ -23,17 +23,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1781921552643",
+      "icon": "💼",
+      "name": "学习网站👇",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1781921631726",
+          "name": "Ai通识课",
+          "url": "https://aipath.buynao.com/#/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781922217097",
+          "name": "刺猬星球",
+          "url": "https://www.super-i.cn/?share=o20ma0mbbpdi5bST",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "id": "category-1781920810129",
       "icon": "🎮",
       "name": "Ai平台👇",
-      "order": 1,
+      "order": 2,
       "sites": []
     },
     {
       "id": "ai-tools",
       "name": "Ai创作台👇",
       "icon": "📁",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "chatgpt",
@@ -69,7 +91,7 @@ export const mockData = {
       "id": "category-1781920183818",
       "icon": "🛠️",
       "name": "Ai提示词👇",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "site-1781921218226",
@@ -84,7 +106,7 @@ export const mockData = {
       "id": "cloud",
       "name": "网页工具👇",
       "icon": "🎨",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "cloudflare",
@@ -120,7 +142,7 @@ export const mockData = {
       "id": "category-1761117928853",
       "icon": "📚",
       "name": "资源网站👇",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "site-1761572637858",
@@ -135,7 +157,7 @@ export const mockData = {
       "id": "category-1761118456697",
       "icon": "👥",
       "name": "飞书文档👇",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "site-1781917776541",
@@ -164,7 +186,7 @@ export const mockData = {
       "id": "category-1781918114539",
       "icon": "⚙️",
       "name": "跨境导航👇",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "site-1781918144691",
@@ -176,25 +198,17 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1781921552643",
-      "icon": "💼",
-      "name": "学习网站👇",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1781921631726",
-          "name": "Ai通识课",
-          "url": "https://aipath.buynao.com/#/",
-          "description": "",
-          "icon": ""
-        }
-      ]
+      "id": "category-1781922146783",
+      "icon": "🔧",
+      "name": "github项目",
+      "order": 9,
+      "sites": []
     },
     {
       "id": "category-1781921601324",
       "icon": "☁️",
       "name": "其他👇",
-      "order": 9,
+      "order": 10,
       "sites": []
     }
   ],
