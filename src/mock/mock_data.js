@@ -37,9 +37,9 @@ export const mockData = {
         },
         {
           "id": "site-1759224622324",
-          "name": "Ai牛逼【提示词】",
-          "url": "https://tishici.us",
-          "description": "网址：tishici.us",
+          "name": "刺猬星球",
+          "url": "https://www.super-i.cn/?share=o20ma0mbbpdi5bST",
+          "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
