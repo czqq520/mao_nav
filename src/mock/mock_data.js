@@ -70,7 +70,15 @@ export const mockData = {
       "icon": "🛠️",
       "name": "Ai提示词👇",
       "order": 3,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1781921218226",
+          "name": "猫图Ai提示词",
+          "url": "https://ecn167x07pg0.feishu.cn/wiki/TLfMwE23iiuFkTkkGW5c6SqDneh",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "cloud",
