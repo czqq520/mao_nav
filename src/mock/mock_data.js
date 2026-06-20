@@ -25,7 +25,7 @@ export const mockData = {
     {
       "id": "ai-tools",
       "name": "Ai创作台👇",
-      "icon": "💼",
+      "icon": "📁",
       "order": 1,
       "sites": [
         {
@@ -60,7 +60,7 @@ export const mockData = {
     },
     {
       "id": "category-1781920183818",
-      "icon": "📚",
+      "icon": "🛠️",
       "name": "Ai提示词👇",
       "order": 2,
       "sites": []
@@ -68,7 +68,7 @@ export const mockData = {
     {
       "id": "cloud",
       "name": "网页工具👇",
-      "icon": "📁",
+      "icon": "🎨",
       "order": 3,
       "sites": [
         {
@@ -103,7 +103,7 @@ export const mockData = {
     },
     {
       "id": "category-1761117928853",
-      "icon": "🌐",
+      "icon": "📚",
       "name": "资源网站👇",
       "order": 4,
       "sites": [
@@ -118,7 +118,7 @@ export const mockData = {
     },
     {
       "id": "category-1761118456697",
-      "icon": "📚",
+      "icon": "👥",
       "name": "飞书文档👇",
       "order": 5,
       "sites": [
@@ -147,7 +147,7 @@ export const mockData = {
     },
     {
       "id": "category-1781918114539",
-      "icon": "💼",
+      "icon": "⚙️",
       "name": "跨境导航👇",
       "order": 6,
       "sites": [
