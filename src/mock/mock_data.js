@@ -88,9 +88,9 @@ export const mockData = {
       "sites": [
         {
           "id": "cloudflare",
-          "name": "恒大歌舞",
-          "url": "https://pan.quark.cn/s/3d360a530335#/list/share",
-          "description": "恒大歌舞",
+          "name": "i导航解析器",
+          "url": "https://www.idaohang123.com/",
+          "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
