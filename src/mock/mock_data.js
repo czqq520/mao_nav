@@ -117,9 +117,9 @@ export const mockData = {
         },
         {
           "id": "aws",
-          "name": "拳击格斗",
-          "url": "https://aws.amazon.com",
-          "description": "亚马逊云服务",
+          "name": "在线提词器",
+          "url": "https://teleprompteronline.org/zh",
+          "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
