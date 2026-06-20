@@ -124,8 +124,8 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1761572637858",
-          "name": "1",
-          "url": "https://sub-1.smjcdh.top/smjc/api/v1/client/subscribe?token=c06763e963e4cd6193d380dd6d0bc7b1",
+          "name": "妙搜云",
+          "url": "https://msmy.cn/",
           "description": "",
           "icon": ""
         }
@@ -174,6 +174,28 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1781921552643",
+      "icon": "💼",
+      "name": "学习网站👇",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1781921631726",
+          "name": "Ai通识课",
+          "url": "https://aipath.buynao.com/#/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1781921601324",
+      "icon": "☁️",
+      "name": "其他👇",
+      "order": 9,
+      "sites": []
     }
   ],
   "title": "公众号：百万秋"
