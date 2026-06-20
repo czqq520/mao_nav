@@ -143,6 +143,13 @@ export const mockData = {
           "url": "https://pan.quark.cn/s/3d626f87dad3",
           "description": "1.4TB，转存自己需要的！",
           "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "site-1781941695256",
+          "name": "网站分析",
+          "url": "https://www.maskgraph.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
