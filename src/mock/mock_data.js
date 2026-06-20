@@ -137,6 +137,21 @@ export const mockData = {
           "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
+    },
+    {
+      "id": "category-1781918114539",
+      "icon": "💼",
+      "name": "跨境导航",
+      "order": 7,
+      "sites": [
+        {
+          "id": "site-1781918144691",
+          "name": "欧洲跨境之路",
+          "url": "https://01234567.feishu.cn/wiki/AjBqwyp5yisP60kvNGAchQtSn7b?fromScene=spaceOverview",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "公众号：百万秋"
