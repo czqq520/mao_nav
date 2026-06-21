@@ -290,6 +290,13 @@ export const mockData = {
           "url": "https://tool.hadsky.com/index",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782032149102",
+          "name": "程墨工具箱",
+          "url": "http://dwz.chacuo.net/weibo#google_vignette",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -525,6 +532,13 @@ export const mockData = {
           "id": "site-1782031580484",
           "name": "爱折纸网",
           "url": "https://www.aizhezhi.com/index.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782032001866",
+          "name": "新概念在线英语",
+          "url": "https://nce.luzhenhua.cn/index.html#NCE1",
           "description": "",
           "icon": ""
         }
