@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://mp.weixin.qq.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782029350085",
+          "name": "96编辑器",
+          "url": "https://bj.96weixin.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -110,6 +117,13 @@ export const mockData = {
           "id": "site-1782025060906",
           "name": "谷歌studio",
           "url": "https://aistudio.google.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782028651100",
+          "name": "Any router",
+          "url": "https://anyrouter.top/console",
           "description": "",
           "icon": ""
         }
@@ -337,7 +351,15 @@ export const mockData = {
       "icon": "🔧",
       "name": "github项目",
       "order": 10,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1782027955291",
+          "name": "视频转换手绘故事",
+          "url": "https://github.com/RanFeng/clipsketch-ai",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "category-1782025625444",
