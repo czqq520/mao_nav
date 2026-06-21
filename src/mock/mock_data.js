@@ -505,6 +505,13 @@ export const mockData = {
           "url": "https://github.com/linshenkx/prompt-optimizer",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782034446950",
+          "name": "水墨画",
+          "url": "https://github.com/WishMelz/AquaInkGL/tree/main",
+          "description": "",
+          "icon": ""
         }
       ]
     },
