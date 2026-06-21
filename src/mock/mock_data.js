@@ -182,10 +182,25 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1782026381744",
+      "icon": "🔍",
+      "name": "图片文档",
+      "order": 6,
+      "sites": [
+        {
+          "id": "site-1782026412393",
+          "name": "图片压缩",
+          "url": "https://caesium.app/zh-CN",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "id": "category-1761117928853",
       "icon": "📚",
       "name": "资源网站👇",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "site-1761572637858",
@@ -207,7 +222,7 @@ export const mockData = {
       "id": "category-1761118456697",
       "icon": "👥",
       "name": "飞书文档👇",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "site-1781931886736",
@@ -250,7 +265,7 @@ export const mockData = {
       "id": "category-1781918114539",
       "icon": "⚙️",
       "name": "跨境导航👇",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "site-1781918144691",
@@ -265,14 +280,14 @@ export const mockData = {
       "id": "category-1781922146783",
       "icon": "🔧",
       "name": "github项目",
-      "order": 9,
+      "order": 10,
       "sites": []
     },
     {
       "id": "category-1782025625444",
       "icon": "💻",
       "name": "新奇网站",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "site-1782025638793",
@@ -308,7 +323,7 @@ export const mockData = {
       "id": "category-1781921601324",
       "icon": "☁️",
       "name": "其他👇",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "site-1781940972465",
