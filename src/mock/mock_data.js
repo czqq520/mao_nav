@@ -323,27 +323,6 @@ export const mockData = {
           "url": "https://www.gsxt.gov.cn/index.html",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1782025398518",
-          "name": "虚拟度假",
-          "url": "https://virtualvacation.us/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782025441690",
-          "name": "全球电台",
-          "url": "https://www.q-3.eu/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782025509283",
-          "name": "数字敦煌",
-          "url": "https://www.e-dunhuang.com/index.htm#",
-          "description": "",
-          "icon": ""
         }
       ]
     }
