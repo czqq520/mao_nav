@@ -91,6 +91,13 @@ export const mockData = {
           "url": "https://siliconflow.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782025060906",
+          "name": "谷歌studio",
+          "url": "https://aistudio.google.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -264,6 +271,13 @@ export const mockData = {
           "id": "site-1781940972465",
           "name": "lol战绩查询",
           "url": "https://fa8.pw/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782025129915",
+          "name": "国家企业信用公示系统",
+          "url": "https://www.gsxt.gov.cn/index.html",
           "description": "",
           "icon": ""
         }
