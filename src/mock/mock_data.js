@@ -81,8 +81,8 @@ export const mockData = {
         },
         {
           "id": "site-1759224622324",
-          "name": "刺猬星球",
-          "url": "https://www.super-i.cn/?share=o20ma0mbbpdi5bST",
+          "name": "flowpix",
+          "url": "https://www.flowpix.club/",
           "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
