@@ -85,20 +85,6 @@ export const mockData = {
           "url": "https://www.flowpix.club/",
           "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "site-1763714506187",
-          "name": "宝可梦丨梯子",
-          "url": "https://love.p6m6.com/#/register?code=CqCVklhZ",
-          "description": "懂得都懂：油管、ins、tiktok…",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "site-1765161255985",
-          "name": "接码平台",
-          "url": "http://www.uomsg.com/appweb/signUp.html?inviter=1x5lhu2p",
-          "description": "帮你接验证码",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
         }
       ]
     },
@@ -142,13 +128,6 @@ export const mockData = {
           "name": "ins查看器",
           "url": "https://www.instokviewer.com/zh-CN",
           "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
-          "id": "site-1758799011556",
-          "name": "B站付费充电视频合集",
-          "url": "https://pan.quark.cn/s/3d626f87dad3",
-          "description": "1.4TB，转存自己需要的！",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
