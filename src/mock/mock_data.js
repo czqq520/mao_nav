@@ -43,6 +43,13 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1782027438227",
+          "name": "cloudstudio",
+          "url": "https://cloudstudio.net/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1781922217097",
           "name": "刺猬星球",
           "url": "https://www.super-i.cn/?share=o20ma0mbbpdi5bST",
@@ -185,6 +192,20 @@ export const mockData = {
           "url": "https://www.maskgraph.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782027072932",
+          "name": "本机ip查询",
+          "url": "https://iplark.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782027736403",
+          "name": "效率坊",
+          "url": "https://www.xiaolvfang.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -198,6 +219,20 @@ export const mockData = {
           "id": "site-1782026412393",
           "name": "图片压缩",
           "url": "https://caesium.app/zh-CN",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782027471074",
+          "name": "格式转换",
+          "url": "https://www.alltoall.net/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782027856930",
+          "name": "图片拼图",
+          "url": "https://photocollagemaker.online/zh/design",
           "description": "",
           "icon": ""
         }
@@ -272,6 +307,13 @@ export const mockData = {
           "url": "https://yunyinghui.feishu.cn/wiki/WhelwZnxQi55mpkOzatc3Xran5b",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782026843390",
+          "name": "Ai知识铺",
+          "url": "https://kcnj7yazgs86.feishu.cn/wiki/IHNxwqoGWiutRfkW7z4cl2v1nTb",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -337,6 +379,28 @@ export const mockData = {
           "url": "https://phet.colorado.edu/zh_CN/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782026771765",
+          "name": "人民币图库",
+          "url": "https://www.cbpm.cn/cn/rmbpic/rmbpic1/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1782027628229",
+      "icon": "🌐",
+      "name": "软件网站",
+      "order": 12,
+      "sites": [
+        {
+          "id": "site-1782027640365",
+          "name": "星空桌面",
+          "url": "https://stellarium.org/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -344,7 +408,7 @@ export const mockData = {
       "id": "category-1781921601324",
       "icon": "☁️",
       "name": "其他👇",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "site-1781940972465",
@@ -357,6 +421,27 @@ export const mockData = {
           "id": "site-1782025129915",
           "name": "国家企业信用公示系统",
           "url": "https://www.gsxt.gov.cn/index.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782026944914",
+          "name": "买购品牌榜",
+          "url": "https://www.maigoo.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782027518004",
+          "name": "海外综合服务平台",
+          "url": "https://hzf.mofcom.gov.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782027793341",
+          "name": "行政区地图",
+          "url": "https://map.ruiduobao.com/",
           "description": "",
           "icon": ""
         }
