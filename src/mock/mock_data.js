@@ -140,6 +140,20 @@ export const mockData = {
           "url": "https://huggingface.co/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782033336498",
+          "name": "万相",
+          "url": "https://tongyi.aliyun.com/wan/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782033376777",
+          "name": "tapnow",
+          "url": "https://app.tapnow.ai/home",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -174,6 +188,13 @@ export const mockData = {
           "id": "site-1782031603576",
           "name": "youmind",
           "url": "https://youmind.com/new-task",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782032834274",
+          "name": "imini",
+          "url": "https://imini.com/zh/image",
           "description": "",
           "icon": ""
         }
@@ -295,6 +316,20 @@ export const mockData = {
           "id": "site-1782032149102",
           "name": "程墨工具箱",
           "url": "http://dwz.chacuo.net/weibo#google_vignette",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782032555430",
+          "name": "MD编辑器",
+          "url": "https://md.doocs.org/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782033641948",
+          "name": "海外媒体下载",
+          "url": "https://downloader.bhwa233.com/zh",
           "description": "",
           "icon": ""
         }
@@ -541,6 +576,27 @@ export const mockData = {
           "url": "https://nce.luzhenhua.cn/index.html#NCE1",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782033021279",
+          "name": "装逼生成器",
+          "url": "https://c.tianhezulin.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782033308121",
+          "name": "英语口语练习",
+          "url": "https://talkany.app/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782033536415",
+          "name": "实时天气",
+          "url": "https://zoom.earth/maps/precipitation/#view=13.68,115.95,5z/model=icon/date=2026-06-20,13:50,+8",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -633,6 +689,35 @@ export const mockData = {
           "id": "site-1782030366922",
           "name": "小红书仿写工作流",
           "url": "https://juejin.cn/post/7559018742891708435",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782032886265",
+          "name": "Z-image",
+          "url": "https://linux.do/t/topic/1240356",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782032901712",
+          "name": "德国沃达丰 eSIM",
+          "url": "https://lewuxian.com/14851/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1782033711620",
+      "icon": "🎵",
+      "name": "影视网站",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1782033720828",
+          "name": "Kvideo",
+          "url": "https://kvideo.pages.dev/",
           "description": "",
           "icon": ""
         }
