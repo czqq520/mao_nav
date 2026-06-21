@@ -162,6 +162,20 @@ export const mockData = {
           "url": "https://www.flowpix.club/",
           "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "site-1782031427255",
+          "name": "牛笔Ai",
+          "url": "https://niubi.codecvcv.com/workspace",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782031603576",
+          "name": "youmind",
+          "url": "https://youmind.com/new-task",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -182,6 +196,13 @@ export const mockData = {
           "id": "site-1782026683711",
           "name": "GEM nana",
           "url": "https://gemnana.com/zh/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782031860446",
+          "name": "X提示词 ",
+          "url": "https://twitterhot.vercel.app/",
           "description": "",
           "icon": ""
         }
@@ -334,6 +355,13 @@ export const mockData = {
           "url": "https://www.cloudocs.top/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782031501438",
+          "name": "国外影片",
+          "url": "https://torrentgalaxy.one/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -428,6 +456,13 @@ export const mockData = {
           "url": "https://github.com/RanFeng/clipsketch-ai",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782031699257",
+          "name": "提示词优化工具",
+          "url": "https://github.com/linshenkx/prompt-optimizer",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -483,6 +518,13 @@ export const mockData = {
           "id": "site-1782030668039",
           "name": "工具蛙",
           "url": "https://toolwa.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782031580484",
+          "name": "爱折纸网",
+          "url": "https://www.aizhezhi.com/index.html",
           "description": "",
           "icon": ""
         }
