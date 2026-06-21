@@ -215,6 +215,13 @@ export const mockData = {
           "url": "https://www.feisoo.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782026586030",
+          "name": "苹果ID共享",
+          "url": "https://applc.cc/h/888",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -314,6 +321,13 @@ export const mockData = {
           "id": "site-1782025704047",
           "name": "虚拟度假",
           "url": "https://virtualvacation.us/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782026459784",
+          "name": "教学仿真程序",
+          "url": "https://phet.colorado.edu/zh_CN/",
           "description": "",
           "icon": ""
         }
