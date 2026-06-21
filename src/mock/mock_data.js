@@ -90,6 +90,20 @@ export const mockData = {
           "url": "https://x.com/home",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782044489172",
+          "name": "vibe",
+          "url": "https://www.vibevibe.cn/zh/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782045061621",
+          "name": "Claude Code 免费从入门到精通",
+          "url": "https://claudecode.tangshuang.net/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -361,6 +375,20 @@ export const mockData = {
           "url": "https://photocollagemaker.online/zh/design",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782046606850",
+          "name": "小米水印生成器",
+          "url": "https://cam.lvwzhen.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782046697379",
+          "name": "图片背景消除",
+          "url": "https://www.remove.bg/zh",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -404,6 +432,13 @@ export const mockData = {
           "url": "https://torrentgalaxy.one/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782045798363",
+          "name": "布的",
+          "url": "https://budeco.top/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -423,8 +458,8 @@ export const mockData = {
         {
           "id": "site-1781917776541",
           "name": "AIDIR创作社区",
-          "url": "https://my.feishu.cn/wiki/LKINwC7IGiB9QNkINNvcdbi3nsc",
-          "description": "",
+          "url": "https://aidir.cn/",
+          "description": "https://my.feishu.cn/wiki/LKINwC7IGiB9QNkINNvcdbi3nsc",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
@@ -604,6 +639,20 @@ export const mockData = {
           "url": "https://zoom.earth/maps/precipitation/#view=13.68,115.95,5z/model=icon/date=2026-06-20,13:50,+8",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782044940342",
+          "name": "药物说明书",
+          "url": "http://drug.ptger.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782045704348",
+          "name": "720云图",
+          "url": "https://www.720yuntu.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -676,6 +725,13 @@ export const mockData = {
           "url": "https://taobao.necgongdao.com/app/home-layout/home",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782045237820",
+          "name": "域名比价",
+          "url": "https://tld-list.com/zh-hans",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -712,6 +768,13 @@ export const mockData = {
           "url": "https://lewuxian.com/14851/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782046171819",
+          "name": "国内地址证明",
+          "url": "https://linux.do/t/topic/1522572",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -725,6 +788,13 @@ export const mockData = {
           "id": "site-1782033720828",
           "name": "Kvideo",
           "url": "https://kvideo.pages.dev/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782045673283",
+          "name": "豪华资源",
+          "url": "https://haohuazy.com/",
           "description": "",
           "icon": ""
         }
