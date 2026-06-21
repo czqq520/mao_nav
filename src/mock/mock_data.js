@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://tu.ainb.us/api/rfile/微信图片_20251105115210_55_65.jpg",
           "description": "操作教程！",
           "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1782025574362",
+          "name": "微信公众号",
+          "url": "https://mp.weixin.qq.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -262,10 +269,46 @@ export const mockData = {
       "sites": []
     },
     {
+      "id": "category-1782025625444",
+      "icon": "💻",
+      "name": "新奇网站",
+      "order": 10,
+      "sites": [
+        {
+          "id": "site-1782025638793",
+          "name": "极像素",
+          "url": "https://www.sigoo.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782025677127",
+          "name": "数字敦煌",
+          "url": "https://www.e-dunhuang.com/index.htm#",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782025692141",
+          "name": "全球电台",
+          "url": "https://www.q-3.eu/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782025704047",
+          "name": "虚拟度假",
+          "url": "https://virtualvacation.us/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "id": "category-1781921601324",
       "icon": "☁️",
       "name": "其他👇",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "site-1781940972465",
@@ -278,6 +321,27 @@ export const mockData = {
           "id": "site-1782025129915",
           "name": "国家企业信用公示系统",
           "url": "https://www.gsxt.gov.cn/index.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782025398518",
+          "name": "虚拟度假",
+          "url": "https://virtualvacation.us/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782025441690",
+          "name": "全球电台",
+          "url": "https://www.q-3.eu/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782025509283",
+          "name": "数字敦煌",
+          "url": "https://www.e-dunhuang.com/index.htm#",
           "description": "",
           "icon": ""
         }
