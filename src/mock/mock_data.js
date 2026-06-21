@@ -280,6 +280,13 @@ export const mockData = {
           "url": "https://www.gsxt.gov.cn/index.html",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782025398518",
+          "name": "虚拟度假",
+          "url": "https://virtualvacation.us/",
+          "description": "",
+          "icon": ""
         }
       ]
     }
