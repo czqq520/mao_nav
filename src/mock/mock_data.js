@@ -224,6 +224,13 @@ export const mockData = {
           "url": "https://runanytime.hxi.me/console/personal",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782106466670",
+          "name": "CC switch",
+          "url": "https://ccswitch.io/zh/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
