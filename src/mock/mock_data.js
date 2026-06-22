@@ -168,6 +168,62 @@ export const mockData = {
           "url": "https://app.tapnow.ai/home",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782090785767",
+          "name": "minimax",
+          "url": "https://www.minimaxi.com/audio",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782090860727",
+          "name": "猫图Ai",
+          "url": "https://catsapi.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782090959327",
+          "name": "yooart",
+          "url": "https://image.yooart.top/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782091202303",
+          "name": "imastudio",
+          "url": "https://www.imastudio.com/zh/community",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782091394735",
+          "name": "ryanai",
+          "url": "https://ryanai.org/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782091838166",
+          "name": "Neb公益站",
+          "url": "https://ai.9q.hk/dashboard/overview",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782091863582",
+          "name": "老魔公益站",
+          "url": "https://api.2020111.xyz/console/personal",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782091893854",
+          "name": "随时跑路公益站",
+          "url": "https://runanytime.hxi.me/console/personal",
+          "description": "",
+          "icon": ""
         }
       ]
     },
