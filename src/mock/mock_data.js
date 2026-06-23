@@ -68,7 +68,7 @@ export const mockData = {
           "name": "刺猬星球",
           "url": "https://www.super-i.cn/?share=o20ma0mbbpdi5bST",
           "description": "",
-          "icon": ""
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1781921631726",
