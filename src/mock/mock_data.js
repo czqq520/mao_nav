@@ -8,17 +8,38 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1761403374550",
-          "name": "网盘拉新【注册】",
-          "url": "https://jht.xingpan.js.cn/h5/index.html?invite_code=U6M5WP#/pages/index/index/index?t=1761403196",
-          "description": "百度、夸克、迅雷等网盘赚米",
-          "icon": "https://123bw.cn/logo.png"
+          "name": "福利吧",
+          "url": "https://fuliba2023.net/",
+          "description": "",
+          "icon": ""
         },
         {
           "id": "site-1762315098916",
-          "name": "操作【教程】",
-          "url": "https://tu.ainb.us/api/rfile/微信图片_20251105115210_55_65.jpg",
-          "description": "操作教程！",
+          "name": "小刀网",
+          "url": "https://xd.x6d.com/",
+          "description": "",
           "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1782220257292",
+          "name": "5base",
+          "url": "https://5base.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782220281764",
+          "name": "零度博客",
+          "url": "https://www.freedidi.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782220333652",
+          "name": "要福利",
+          "url": "https://1fuli.one/",
+          "description": "",
+          "icon": ""
         },
         {
           "id": "site-1782025574362",
