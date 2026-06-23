@@ -241,18 +241,25 @@ export const mockData = {
       "order": 3,
       "sites": [
         {
-          "id": "chatgpt",
-          "name": "Ai牛逼【平台】",
-          "url": "https://ainb.us",
-          "description": "网址：Ainb.us",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
-        },
-        {
           "id": "site-1759224622324",
           "name": "flowpix",
           "url": "https://www.flowpix.club/",
           "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
+        },
+        {
+          "id": "site-1782193656534",
+          "name": "君的星辰【创作台】",
+          "url": "https://seedance.muyuan.do/generate",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782193832853",
+          "name": "君的星辰【API】",
+          "url": "https://ai.centos.hk/console/topup",
+          "description": "",
+          "icon": ""
         },
         {
           "id": "site-1782031427255",
