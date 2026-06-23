@@ -514,7 +514,7 @@ export const mockData = {
     {
       "id": "category-1782047454474",
       "icon": "📊",
-      "name": "平台网站",
+      "name": "平台网站👇",
       "order": 7,
       "sites": [
         {
@@ -691,7 +691,7 @@ export const mockData = {
     {
       "id": "category-1782026381744",
       "icon": "🔍",
-      "name": "图片文档",
+      "name": "图片文档👇",
       "order": 9,
       "sites": [
         {
@@ -756,7 +756,7 @@ export const mockData = {
     {
       "id": "category-1781922146783",
       "icon": "🔧",
-      "name": "github项目",
+      "name": "github项目👇",
       "order": 11,
       "sites": [
         {
@@ -792,7 +792,7 @@ export const mockData = {
     {
       "id": "category-1782025625444",
       "icon": "💻",
-      "name": "新奇网站",
+      "name": "新奇网站👇",
       "order": 12,
       "sites": [
         {
@@ -898,7 +898,7 @@ export const mockData = {
     {
       "id": "category-1782027628229",
       "icon": "🌐",
-      "name": "软件网站",
+      "name": "软件网站👇",
       "order": 13,
       "sites": [
         {
@@ -955,7 +955,7 @@ export const mockData = {
     {
       "id": "category-1782033711620",
       "icon": "🎵",
-      "name": "影视网站",
+      "name": "影视网站👇",
       "order": 14,
       "sites": [
         {
