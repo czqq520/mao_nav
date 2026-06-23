@@ -11,7 +11,7 @@ export const mockData = {
           "name": "福利吧",
           "url": "https://fuliba2023.net/",
           "description": "",
-          "icon": ""
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1762315098916",
@@ -25,21 +25,21 @@ export const mockData = {
           "name": "5base",
           "url": "https://5base.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1782220281764",
           "name": "零度博客",
           "url": "https://www.freedidi.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1782220333652",
           "name": "要福利",
           "url": "https://1fuli.one/",
           "description": "",
-          "icon": ""
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1782025574362",
@@ -784,6 +784,13 @@ export const mockData = {
           "id": "site-1782034446950",
           "name": "水墨画",
           "url": "https://github.com/WishMelz/AquaInkGL/tree/main",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782220943172",
+          "name": "万能导",
+          "url": "https://github.com/tllovesxs/wandao",
           "description": "",
           "icon": ""
         }
