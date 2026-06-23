@@ -252,6 +252,13 @@ export const mockData = {
           "url": "https://ccswitch.io/zh/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782220892044",
+          "name": "imagic【签到】",
+          "url": "https://newapi.imagic.eu.org/console/personal",
+          "description": "",
+          "icon": ""
         }
       ]
     },
