@@ -266,14 +266,14 @@ export const mockData = {
           "name": "flowpix",
           "url": "https://www.flowpix.club/",
           "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1782193656534",
           "name": "君的星辰【创作台】",
           "url": "https://seedance.muyuan.do/generate",
           "description": "",
-          "icon": ""
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1782193832853",
