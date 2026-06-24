@@ -158,7 +158,7 @@ export const mockData = {
         {
           "id": "site-1782091838166",
           "name": "Neb【签到】",
-          "url": "https://ai.9q.hk/dashboard/overview",
+          "url": "https://ai.9q.hk/profile",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
