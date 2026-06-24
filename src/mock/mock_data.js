@@ -199,10 +199,10 @@ export const mockData = {
         },
         {
           "id": "site-1782028651100",
-          "name": "Any router",
+          "name": "Any【签到】",
           "url": "https://anyrouter.top/console",
           "description": "",
-          "icon": ""
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1782030517050",
