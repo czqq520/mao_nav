@@ -135,6 +135,20 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1782091893854",
+          "name": "随时跑路【签到】",
+          "url": "https://runanytime.hxi.me/console/personal",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1782220892044",
+          "name": "imagic【签到】",
+          "url": "https://newapi.imagic.eu.org/console/personal",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1782033376777",
           "name": "tapnow",
           "url": "https://app.tapnow.ai/home",
@@ -233,25 +247,11 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1782091893854",
-          "name": "随时跑路公益站",
-          "url": "https://runanytime.hxi.me/console/personal",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1782106466670",
           "name": "CC switch",
           "url": "https://ccswitch.io/zh/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1782220892044",
-          "name": "imagic【签到】",
-          "url": "https://newapi.imagic.eu.org/console/personal",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
         }
       ]
     },
