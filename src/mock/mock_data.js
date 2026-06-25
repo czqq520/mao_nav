@@ -350,9 +350,9 @@ export const mockData = {
         {
           "id": "site-1781931886736",
           "name": "飞书文档（备份）",
-          "url": "https://my.feishu.cn/wiki/OkskwKfCeikYI5kSV4MckUg0n3f?from=from_copylink",
+          "url": "https://my.feishu.cn/wiki/space/7551729662934761474?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home",
           "description": "",
-          "icon": ""
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1781917776541",
