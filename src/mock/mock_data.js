@@ -171,7 +171,7 @@ export const mockData = {
         },
         {
           "id": "site-1782028651100",
-          "name": "Any【签到】",
+          "name": "Any公益站",
           "url": "https://anyrouter.top/console",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
