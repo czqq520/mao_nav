@@ -259,6 +259,13 @@ export const mockData = {
           "url": "https://ccswitch.io/zh/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782524059306",
+          "name": "九幺【公益站】",
+          "url": "https://api.7r.fit/console/personal",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
         }
       ]
     },
