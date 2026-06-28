@@ -266,6 +266,13 @@ export const mockData = {
           "url": "https://api.7r.fit/console/personal",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1782616124495",
+          "name": "喵喵【签到】",
+          "url": "https://new-api.rugao.me/profile",
+          "description": "",
+          "icon": ""
         }
       ]
     },
