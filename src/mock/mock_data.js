@@ -205,6 +205,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1782738736850",
+          "name": "百倍【签到】",
+          "url": "https://sub.100xlabs.space/check-in",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1782033376777",
           "name": "tapnow",
           "url": "https://app.tapnow.ai/home",
