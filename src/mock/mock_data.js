@@ -905,6 +905,13 @@ export const mockData = {
           "url": "https://github.com/tllovesxs/wandao",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782695950068",
+          "name": "开源数字人",
+          "url": "https://github.com/datascale-ai/opentalking",
+          "description": "",
+          "icon": ""
         }
       ]
     },
