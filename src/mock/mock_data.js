@@ -212,6 +212,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1782782594362",
+          "name": "月城【签到】",
+          "url": "https://ai.52ccl.cn/console/personal",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1782033376777",
           "name": "tapnow",
           "url": "https://app.tapnow.ai/home",
