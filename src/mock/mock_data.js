@@ -219,6 +219,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1782828660144",
+          "name": "智画创",
+          "url": "https://wisart.kuaileshifu.com/#/checkin",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1782033376777",
           "name": "tapnow",
           "url": "https://app.tapnow.ai/home",
