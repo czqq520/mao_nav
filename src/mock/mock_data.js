@@ -351,6 +351,13 @@ export const mockData = {
           "url": "https://cineart.ai/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782797263300",
+          "name": "剧影工坊",
+          "url": "https://www.juyingai.top/#top",
+          "description": "",
+          "icon": ""
         }
       ]
     },
