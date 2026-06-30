@@ -458,7 +458,14 @@ export const mockData = {
           "name": "在线提词器",
           "url": "https://teleprompteronline.org/zh",
           "description": "",
-          "icon": "/sitelogo/cloud.tencent.com.ico"
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1782781888562",
+          "name": "综合计算器",
+          "url": "https://jsq3000.com/",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1758789941529",
