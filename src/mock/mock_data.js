@@ -954,6 +954,13 @@ export const mockData = {
           "url": "https://github.com/datascale-ai/opentalking",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1782981804325",
+          "name": "Jellyfish短剧工厂",
+          "url": "https://forget-c.github.io/Jellyfish/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
