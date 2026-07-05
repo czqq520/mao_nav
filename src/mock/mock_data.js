@@ -408,6 +408,13 @@ export const mockData = {
           "url": "https://twitterhot.vercel.app/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1783257429530",
+          "name": "刺猬星球",
+          "url": "https://qh6r383kfl.feishu.cn/wiki/Fe1wwjrs3is5uEkOlEsc876ZnGA",
+          "description": "",
+          "icon": ""
         }
       ]
     },
