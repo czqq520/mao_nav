@@ -179,7 +179,7 @@ export const mockData = {
         {
           "id": "site-1782522911937",
           "name": "午夜【签到】",
-          "url": "https://api.lyjxka.top/console/personal",
+          "url": "https://api.lyjxka.top/profile",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
@@ -214,7 +214,7 @@ export const mockData = {
         {
           "id": "site-1782782594362",
           "name": "月城【签到】",
-          "url": "https://ai.52ccl.cn/console/personal",
+          "url": "https://ai.52ccl.cn/profile",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
