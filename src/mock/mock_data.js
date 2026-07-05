@@ -747,6 +747,13 @@ export const mockData = {
           "url": "https://www.bijiandata.com/home",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1783214855231",
+          "name": "CHY【公益订阅】",
+          "url": "https://dy.chybenzun.top/?msg=%e4%bb%8a%e6%97%a5%e5%b7%b2%e9%a2%86%e5%8f%96%e8%bf%87%e5%a5%96%e5%8a%b1",
+          "description": "",
+          "icon": ""
         }
       ]
     },
