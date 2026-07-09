@@ -165,7 +165,7 @@ export const mockData = {
         {
           "id": "site-1782091863582",
           "name": "老魔【签到】",
-          "url": "https://api.2020111.xyz/console/personal",
+          "url": "https://api.2020111.xyz/profile",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
