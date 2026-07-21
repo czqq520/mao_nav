@@ -92,6 +92,34 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1784603252889",
+          "name": "Tapnow",
+          "url": "https://app.tapnow.ai/home",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1784603225134",
+          "name": "runninghub",
+          "url": "https://www.runninghub.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1784603313081",
+          "name": "哩布",
+          "url": "https://www.liblib.art/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1784603328585",
+          "name": "comfly",
+          "url": "https://ai.comfly.org/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1781921631726",
           "name": "Ai通识课",
           "url": "https://aipath.buynao.com/#/",
