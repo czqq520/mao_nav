@@ -275,6 +275,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1784698688651",
+          "name": "无名【签到】",
+          "url": "https://welfare.0xpsyche.me/profile",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1782033376777",
           "name": "tapnow",
           "url": "https://app.tapnow.ai/home",
