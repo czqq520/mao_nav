@@ -357,6 +357,13 @@ export const mockData = {
           "url": "https://ccswitch.io/zh/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1785130631581",
+          "name": "雨落【签到】",
+          "url": "https://platform.rainflowtb.com/checkin",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
         }
       ]
     },
