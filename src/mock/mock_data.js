@@ -282,6 +282,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1785130631581",
+          "name": "雨落【签到】",
+          "url": "https://platform.rainflowtb.com/checkin",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1782033376777",
           "name": "tapnow",
           "url": "https://app.tapnow.ai/home",
@@ -357,13 +364,6 @@ export const mockData = {
           "url": "https://ccswitch.io/zh/",
           "description": "",
           "icon": ""
-        },
-        {
-          "id": "site-1785130631581",
-          "name": "雨落【签到】",
-          "url": "https://platform.rainflowtb.com/checkin",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
         }
       ]
     },
