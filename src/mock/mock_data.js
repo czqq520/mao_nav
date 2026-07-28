@@ -261,13 +261,6 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
-          "id": "site-1783091196192",
-          "name": "V-API【签到】",
-          "url": "https://v-api.de5.net/profile",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
           "id": "site-1783488954583",
           "name": "7倍【签到】",
           "url": "https://7x.hk/profile",
@@ -292,6 +285,13 @@ export const mockData = {
           "id": "site-1782033376777",
           "name": "tapnow",
           "url": "https://app.tapnow.ai/home",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1783091196192",
+          "name": "V-API【签到】",
+          "url": "https://v-api.de5.net/profile",
           "description": "",
           "icon": ""
         },
