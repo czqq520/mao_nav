@@ -460,28 +460,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1781920183818",
-      "icon": "🛠️",
-      "name": "Ai提示词👇",
-      "order": 4,
-      "sites": [
-        {
-          "id": "site-1782026683711",
-          "name": "GEM nana",
-          "url": "https://gemnana.com/zh/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782031860446",
-          "name": "X提示词 ",
-          "url": "https://twitterhot.vercel.app/",
-          "description": "",
-          "icon": ""
-        }
-      ]
-    },
-    {
       "id": "category-1761118456697",
       "icon": "👥",
       "name": "飞书文档👇",
