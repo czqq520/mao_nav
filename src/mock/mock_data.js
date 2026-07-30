@@ -212,13 +212,6 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
-          "id": "site-1782091838166",
-          "name": "Neb【签到】",
-          "url": "https://ai.9q.hk/profile",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
           "id": "site-1782091863582",
           "name": "老魔【签到】",
           "url": "https://api.2020111.xyz/profile",
