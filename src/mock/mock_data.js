@@ -724,6 +724,13 @@ export const mockData = {
           "url": "https://www.dousnap.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1785555236985",
+          "name": "公众号历史消息链接",
+          "url": "https://www.weixinzg.cn/getHomeUrl.html",
+          "description": "",
+          "icon": ""
         }
       ]
     },
