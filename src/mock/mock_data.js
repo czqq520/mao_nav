@@ -385,6 +385,13 @@ export const mockData = {
           "url": "https://ccswitch.io/zh/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1785722888484",
+          "name": "吉吉AI",
+          "url": "https://www.jiji.cc/dashboard",
+          "description": "",
+          "icon": ""
         }
       ]
     },
