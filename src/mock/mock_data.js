@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://bj.96weixin.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1785843538448",
+          "name": "链动小铺",
+          "url": "https://www.ldxp.cn/merchant/dashboard/workplace",
+          "description": "",
+          "icon": ""
         }
       ]
     },
