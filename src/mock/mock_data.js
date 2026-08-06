@@ -181,6 +181,13 @@ export const mockData = {
           "url": "https://twitterhot.vercel.app/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1785988835067",
+          "name": "VSC社区",
+          "url": "https://vibeshot.club/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
