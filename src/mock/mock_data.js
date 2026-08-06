@@ -966,13 +966,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1785132282853",
-          "name": "资源站一键搜索",
-          "url": "http://seokeyword.io/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1785132341365",
           "name": "weee购物网",
           "url": "https://www.sayweee.com/zh",
