@@ -195,6 +195,13 @@ export const mockData = {
           "url": "https://xueai.app/slides/home.html",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786067920369",
+          "name": "Ai hot 卡兹克",
+          "url": "https://aihot.virxact.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
