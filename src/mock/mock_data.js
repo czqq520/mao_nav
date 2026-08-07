@@ -872,6 +872,13 @@ export const mockData = {
           "url": "https://admin.google.com/u/2/ac/home?journey=218",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786067954977",
+          "name": "优云智算",
+          "url": "https://www.compshare.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
