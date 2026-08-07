@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://vibeshot.club/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786067845596",
+          "name": "学AI.app",
+          "url": "https://xueai.app/slides/home.html",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -411,6 +418,13 @@ export const mockData = {
           "id": "site-1785836102806",
           "name": "agentrouter【公益】",
           "url": "https://agentrouter.org/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786067870553",
+          "name": "tapnow",
+          "url": "https://tapnow.media/zh",
           "description": "",
           "icon": ""
         }
