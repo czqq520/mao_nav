@@ -505,6 +505,13 @@ export const mockData = {
           "url": "https://memevideo.net/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786497987077",
+          "name": "vibex公益站",
+          "url": "https://vibex.runninghub.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
