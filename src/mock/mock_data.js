@@ -37,7 +37,7 @@ export const mockData = {
         {
           "id": "site-1782220333652",
           "name": "要福利",
-          "url": "https://1fuli.one/",
+          "url": "https://1fu.li",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
