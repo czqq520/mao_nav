@@ -801,6 +801,13 @@ export const mockData = {
           "url": "https://pdf2image.pages.dev/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786625335107",
+          "name": "取色器",
+          "url": "https://www.jyshare.com/front-end/5449/#f1f8e0",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -1677,6 +1684,21 @@ export const mockData = {
           "id": "site-1782046171819",
           "name": "国内地址证明",
           "url": "https://linux.do/t/topic/1522572",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1786626881364",
+      "icon": "🔍",
+      "name": "账号",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1786626894310",
+          "name": "账号鸭",
+          "url": "https://www.zhanghaoya.com/list/microsoft.html",
           "description": "",
           "icon": ""
         }
