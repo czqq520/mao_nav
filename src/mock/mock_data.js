@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://qianxingba.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786626915028",
+          "name": "龙计划",
+          "url": "https://www.ljhlmw.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -806,6 +813,20 @@ export const mockData = {
           "id": "site-1786625335107",
           "name": "取色器",
           "url": "https://www.jyshare.com/front-end/5449/#f1f8e0",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786626955140",
+          "name": "snapTik下载",
+          "url": "https://snaptik.biz/zh-cn",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786626988828",
+          "name": "VTool下载",
+          "url": "https://vtool.pro/",
           "description": "",
           "icon": ""
         }
