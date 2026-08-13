@@ -254,13 +254,6 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
-          "id": "site-1782522911937",
-          "name": "午夜【签到】",
-          "url": "https://api.lyjxka.top/profile",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
           "id": "site-1782524059306",
           "name": "九幺【公益站】",
           "url": "https://api.7r.fit/console/personal",
