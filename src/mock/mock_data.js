@@ -458,6 +458,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1786723005615",
+          "name": "即梦Ai",
+          "url": "https://jimeng.jianying.com/ai-tool/home/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1782193656534",
           "name": "君的星辰【创作台】",
           "url": "https://seedance.muyuan.do/generate",
