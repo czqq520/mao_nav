@@ -1076,6 +1076,20 @@ export const mockData = {
           "url": "https://www.wnsearch.top/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786671275721",
+          "name": "飞搜",
+          "url": "https://www.feisous.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786671292967",
+          "name": "飞搜2",
+          "url": "https://feisou.app/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
