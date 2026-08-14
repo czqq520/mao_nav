@@ -465,6 +465,13 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1786723132940",
+          "name": "火山方舟",
+          "url": "https://ark.volcengine.com/region:cn-beijing/experience/voice?_vtm_=a441938.b75322.0_0.0_0.0.10_7670842479008548390&model=doubao-seed-audio-1-0",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1782193656534",
           "name": "君的星辰【创作台】",
           "url": "https://seedance.muyuan.do/generate",
