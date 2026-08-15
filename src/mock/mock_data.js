@@ -63,6 +63,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1786810357542",
+          "name": "Aihot卡兹克",
+          "url": "https://aihot.virxact.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1782025574362",
           "name": "微信公众号",
           "url": "https://mp.weixin.qq.com/",
@@ -106,13 +113,6 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
-          "id": "site-1784603328585",
-          "name": "comfly",
-          "url": "https://ai.comfly.org/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1781921631726",
           "name": "Ai通识课",
           "url": "https://aipath.buynao.com/#/",
@@ -137,41 +137,6 @@ export const mockData = {
           "id": "site-1782045061621",
           "name": "Claude Code 免费从入门到精通",
           "url": "https://claudecode.tangshuang.net/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1785201868337",
-          "name": "猫图AI提示词",
-          "url": "https://ecn167x07pg0.feishu.cn/wiki/TLfMwE23iiuFkTkkGW5c6SqDneh",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1785201890264",
-          "name": "刺猬星球提示词",
-          "url": "https://qh6r383kfl.feishu.cn/wiki/Fe1wwjrs3is5uEkOlEsc876ZnGA",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1785201913289",
-          "name": "GEM nana",
-          "url": "https://gemnana.com/zh/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1785201934744",
-          "name": "X提示词",
-          "url": "https://twitterhot.vercel.app/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1785988835067",
-          "name": "VSC社区",
-          "url": "https://vibeshot.club/",
           "description": "",
           "icon": ""
         },
@@ -420,6 +385,13 @@ export const mockData = {
           "url": "https://ergouapi.co/console/personal",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786809953372",
+          "name": "comfly【充值】",
+          "url": "https://ai.comfly.org/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -540,6 +512,35 @@ export const mockData = {
           "url": "https://www.liblib.art/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786810295421",
+          "name": "VSC社区 ",
+          "url": "https://vibeshot.club/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1786810155116",
+      "icon": "📁",
+      "name": "Ai提示词",
+      "order": 4,
+      "sites": [
+        {
+          "id": "site-1786810199094",
+          "name": "GEM  nano",
+          "url": "https://gemnana.com/zh/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786810225885",
+          "name": "X提示词 ",
+          "url": "https://twitterhot.vercel.app/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -547,7 +548,7 @@ export const mockData = {
       "id": "category-1761118456697",
       "icon": "👥",
       "name": "飞书文档👇",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "site-1781931886736",
@@ -604,7 +605,7 @@ export const mockData = {
       "id": "cloud",
       "name": "网页工具👇",
       "icon": "🎨",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "cloudflare",
@@ -857,7 +858,7 @@ export const mockData = {
       "id": "category-1782047454474",
       "icon": "📊",
       "name": "网页平台👇",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "site-1782047464612",
@@ -956,7 +957,7 @@ export const mockData = {
       "id": "category-1761117928853",
       "icon": "📚",
       "name": "资源搜索👇",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "site-1761572637858",
@@ -1118,7 +1119,7 @@ export const mockData = {
       "id": "category-1782026381744",
       "icon": "🔍",
       "name": "图片文档处理👇",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "site-1782026412393",
@@ -1161,7 +1162,7 @@ export const mockData = {
       "id": "category-1781918114539",
       "icon": "⚙️",
       "name": "跨境导航👇",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "site-1781918144691",
@@ -1316,7 +1317,7 @@ export const mockData = {
       "id": "category-1781922146783",
       "icon": "🔧",
       "name": "github项目👇",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "site-1782027955291",
@@ -1366,7 +1367,7 @@ export const mockData = {
       "id": "category-1782025625444",
       "icon": "💻",
       "name": "新奇网站👇",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "site-1782025638793",
@@ -1479,7 +1480,7 @@ export const mockData = {
       "id": "category-1782027628229",
       "icon": "🌐",
       "name": "软件网站👇",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "site-1782027640365",
@@ -1536,7 +1537,7 @@ export const mockData = {
       "id": "category-1782033711620",
       "icon": "🎵",
       "name": "影视网站👇",
-      "order": 13,
+      "order": 14,
       "sites": [
         {
           "id": "site-1782033720828",
@@ -1649,7 +1650,7 @@ export const mockData = {
       "id": "category-1786626881364",
       "icon": "🔍",
       "name": "账号平台👇",
-      "order": 14,
+      "order": 15,
       "sites": [
         {
           "id": "site-1786626894310",
@@ -1664,7 +1665,7 @@ export const mockData = {
       "id": "category-1781921601324",
       "icon": "☁️",
       "name": "其他分类👇",
-      "order": 15,
+      "order": 16,
       "sites": [
         {
           "id": "site-1781940972465",
@@ -1728,7 +1729,7 @@ export const mockData = {
       "id": "category-1782030115606",
       "icon": "📱",
       "name": "其他1",
-      "order": 16,
+      "order": 17,
       "sites": [
         {
           "id": "site-1782030126363",
