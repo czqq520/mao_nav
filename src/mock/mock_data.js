@@ -1458,6 +1458,13 @@ export const mockData = {
           "url": "https://www.720yuntu.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786757491642",
+          "name": "币安广场",
+          "url": "https://bnb.build/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
