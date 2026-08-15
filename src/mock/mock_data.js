@@ -441,6 +441,13 @@ export const mockData = {
           "url": "https://tapnow.media/zh",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1786759053190",
+          "name": "二狗公益【签到】",
+          "url": "https://ergouapi.co/console/personal",
+          "description": "",
+          "icon": ""
         }
       ]
     },
