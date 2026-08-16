@@ -312,13 +312,6 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
-          "id": "site-1782220892044",
-          "name": "imagic【签到】",
-          "url": "https://newapi.imagic.eu.org/console/personal",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
           "id": "site-1782091863582",
           "name": "老魔【签到】",
           "url": "https://api.2020111.xyz/profile",
