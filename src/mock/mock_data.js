@@ -70,20 +70,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1782025574362",
-          "name": "微信公众号",
-          "url": "https://mp.weixin.qq.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782029350085",
-          "name": "96编辑器",
-          "url": "https://bj.96weixin.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1785843538448",
           "name": "链动小铺",
           "url": "https://www.ldxp.cn/merchant/dashboard/workplace",
@@ -159,6 +145,13 @@ export const mockData = {
           "id": "site-1786723005615",
           "name": "即梦Ai",
           "url": "https://jimeng.jianying.com/ai-tool/home/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786893659719",
+          "name": "秘塔minimax-H3",
+          "url": "https://metaso.cn/minimax-h3",
           "description": "",
           "icon": ""
         },
