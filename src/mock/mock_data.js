@@ -327,21 +327,21 @@ export const mockData = {
         },
         {
           "id": "site-1782524059306",
-          "name": "九幺【公益站】",
+          "name": "九幺【失联】",
           "url": "https://api.7r.fit/console/personal",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1782616124495",
-          "name": "喵喵【签到】",
+          "name": "喵喵【失联】",
           "url": "https://new-api.rugao.me/profile",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1782695664501",
-          "name": "joverna【签到】",
+          "name": "joverna【失联】",
           "url": "https://jiuuij.de5.net/console/personal",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
@@ -362,7 +362,7 @@ export const mockData = {
         },
         {
           "id": "site-1782828660144",
-          "name": "智画创",
+          "name": "智画创【签到】",
           "url": "https://wisart.kuaileshifu.com/#/checkin",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
@@ -383,7 +383,7 @@ export const mockData = {
         },
         {
           "id": "site-1784698688651",
-          "name": "无名【签到】",
+          "name": "无名【失联】",
           "url": "https://welfare.0xpsyche.me/profile",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
