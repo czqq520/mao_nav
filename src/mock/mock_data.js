@@ -75,6 +75,13 @@ export const mockData = {
           "url": "https://www.ldxp.cn/merchant/dashboard/workplace",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1787063199286",
+          "name": "小龙人",
+          "url": "https://m.uumit.com/hall",
+          "description": "",
+          "icon": ""
         }
       ]
     },
