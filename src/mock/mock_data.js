@@ -132,6 +132,13 @@ export const mockData = {
           "url": "https://xueai.app/slides/home.html",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1787108363943",
+          "name": "hermes爱马仕",
+          "url": "https://hermes-agent.nousresearch.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
