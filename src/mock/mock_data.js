@@ -82,6 +82,13 @@ export const mockData = {
           "url": "https://m.uumit.com/hall",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1787211550556",
+          "name": "Yandex搜索",
+          "url": "https://yandex.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
