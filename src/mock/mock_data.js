@@ -89,6 +89,13 @@ export const mockData = {
           "url": "https://yandex.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1787542175493",
+          "name": "D3联盟",
+          "url": "https://d3al.xyz/affiliate",
+          "description": "",
+          "icon": ""
         }
       ]
     },
