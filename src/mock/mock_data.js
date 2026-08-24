@@ -146,6 +146,13 @@ export const mockData = {
           "url": "https://hermes-agent.nousresearch.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1787540423499",
+          "name": "秘塔H3教程",
+          "url": "https://metaso.cn/minimax-h3/guide",
+          "description": "",
+          "icon": ""
         }
       ]
     },
