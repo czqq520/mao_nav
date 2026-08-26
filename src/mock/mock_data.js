@@ -555,6 +555,13 @@ export const mockData = {
           "url": "https://ai.comfly.org/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1787735837000",
+          "name": "kimi后台",
+          "url": "https://platform.kimi.com/console/account",
+          "description": "",
+          "icon": ""
         }
       ]
     },
