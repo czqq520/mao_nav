@@ -294,6 +294,13 @@ export const mockData = {
           "url": "https://vibeshot.club/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1787708029200",
+          "name": "flova",
+          "url": "https://flova.tv/zh-CN/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
