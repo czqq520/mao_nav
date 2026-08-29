@@ -164,10 +164,39 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1787966277502",
+      "icon": "📁",
+      "name": "Ai平台👇",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1787966347478",
+          "name": "Grok",
+          "url": "https://x.com/i/grok",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1787967424511",
+          "name": "motionmux【wan】",
+          "url": "https://motionmux.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1787967534950",
+          "name": "天工工作台",
+          "url": "https://www.skyproduction.cn/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "id": "ai-tools",
       "name": "Ai创作台👇",
       "icon": "📁",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "site-1759224622324",
@@ -308,7 +337,7 @@ export const mockData = {
       "id": "category-1786810155116",
       "icon": "📁",
       "name": "Ai提示词",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "site-1786810199094",
@@ -330,7 +359,7 @@ export const mockData = {
       "id": "category-1781920810129",
       "icon": "🎮",
       "name": "Ai中转站👇",
-      "order": 4,
+      "order": 5,
       "sites": [
         {
           "id": "site-1781940756321",
@@ -541,7 +570,7 @@ export const mockData = {
       "id": "category-1761118456697",
       "icon": "👥",
       "name": "飞书文档👇",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "site-1781931886736",
@@ -598,7 +627,7 @@ export const mockData = {
       "id": "cloud",
       "name": "网页工具👇",
       "icon": "🎨",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "cloudflare",
@@ -858,7 +887,7 @@ export const mockData = {
       "id": "category-1782047454474",
       "icon": "📊",
       "name": "网页平台👇",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "site-1782047464612",
@@ -964,7 +993,7 @@ export const mockData = {
       "id": "category-1761117928853",
       "icon": "📚",
       "name": "资源搜索👇",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "site-1761572637858",
@@ -1126,7 +1155,7 @@ export const mockData = {
       "id": "category-1782026381744",
       "icon": "🔍",
       "name": "图片文档处理👇",
-      "order": 9,
+      "order": 10,
       "sites": [
         {
           "id": "site-1782026412393",
@@ -1169,7 +1198,7 @@ export const mockData = {
       "id": "category-1781918114539",
       "icon": "⚙️",
       "name": "跨境导航👇",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "site-1781918144691",
@@ -1324,7 +1353,7 @@ export const mockData = {
       "id": "category-1781922146783",
       "icon": "🔧",
       "name": "github项目👇",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "site-1782027955291",
@@ -1374,7 +1403,7 @@ export const mockData = {
       "id": "category-1782025625444",
       "icon": "💻",
       "name": "新奇网站👇",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "site-1782025638793",
@@ -1487,7 +1516,7 @@ export const mockData = {
       "id": "category-1782027628229",
       "icon": "🌐",
       "name": "软件网站👇",
-      "order": 13,
+      "order": 14,
       "sites": [
         {
           "id": "site-1782027640365",
@@ -1544,7 +1573,7 @@ export const mockData = {
       "id": "category-1782033711620",
       "icon": "🎵",
       "name": "影视网站👇",
-      "order": 14,
+      "order": 15,
       "sites": [
         {
           "id": "site-1782033720828",
@@ -1664,7 +1693,7 @@ export const mockData = {
       "id": "category-1786626881364",
       "icon": "🔍",
       "name": "账号平台👇",
-      "order": 15,
+      "order": 16,
       "sites": [
         {
           "id": "site-1786626894310",
@@ -1679,7 +1708,7 @@ export const mockData = {
       "id": "category-1781921601324",
       "icon": "☁️",
       "name": "其他分类👇",
-      "order": 16,
+      "order": 17,
       "sites": [
         {
           "id": "site-1781940972465",
@@ -1743,7 +1772,7 @@ export const mockData = {
       "id": "category-1782030115606",
       "icon": "📱",
       "name": "其他1",
-      "order": 17,
+      "order": 18,
       "sites": [
         {
           "id": "site-1782030126363",
