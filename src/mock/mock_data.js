@@ -1000,6 +1000,13 @@ export const mockData = {
           "url": "https://www.partnerboost.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1788154649454",
+          "name": "优云智算",
+          "url": "https://console.compshare.cn/light-gpu/console/resources",
+          "description": "",
+          "icon": ""
         }
       ]
     },
