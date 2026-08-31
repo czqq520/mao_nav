@@ -993,6 +993,13 @@ export const mockData = {
           "url": "https://www.cczd.cc.cd/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1788142821336",
+          "name": "partnerboost联盟",
+          "url": "https://www.partnerboost.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
