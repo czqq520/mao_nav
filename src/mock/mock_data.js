@@ -1516,6 +1516,13 @@ export const mockData = {
           "url": "https://bnb.build/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1788141246807",
+          "name": "DARKforums",
+          "url": "https://darkforums.as/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
