@@ -383,6 +383,20 @@ export const mockData = {
       "order": 5,
       "sites": [
         {
+          "id": "site-1788317573491",
+          "name": "deepseek【api】",
+          "url": "https://platform.deepseek.com/usage",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1787735837000",
+          "name": "kimi【api】",
+          "url": "https://platform.kimi.com/console/account",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1781940756321",
           "name": "太极Ai【每日】",
           "url": "https://www.taijiai666.com/",
@@ -575,13 +589,6 @@ export const mockData = {
           "id": "site-1786809953372",
           "name": "comfly【充值】",
           "url": "https://ai.comfly.org/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1787735837000",
-          "name": "kimi后台",
-          "url": "https://platform.kimi.com/console/account",
           "description": "",
           "icon": ""
         }
