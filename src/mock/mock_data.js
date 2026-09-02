@@ -915,6 +915,20 @@ export const mockData = {
           "url": "https://savetwitter.net/zh-cn3",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1788357831246",
+          "name": "greenvideo下载",
+          "url": "https://greenvideo.cc/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1788357847933",
+          "name": "suptools下载",
+          "url": "https://vid.suptools.win/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
