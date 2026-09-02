@@ -184,6 +184,13 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1788317467187",
+          "name": "neowow",
+          "url": "https://neowow.cn/neo-tv",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1788232700196",
           "name": "fal.ai【H3每日免费】",
           "url": "https://fal.ai/tools/minimax-h3-max",
