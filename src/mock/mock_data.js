@@ -224,6 +224,13 @@ export const mockData = {
           "url": "https://yingma.tv/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1788358101461",
+          "name": "xogpu【平台】",
+          "url": "https://xogpu.com/dashboard/overview",
+          "description": "",
+          "icon": ""
         }
       ]
     },
