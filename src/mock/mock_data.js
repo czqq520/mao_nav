@@ -1049,6 +1049,13 @@ export const mockData = {
           "url": "https://console.compshare.cn/light-gpu/console/resources",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1788358016807",
+          "name": "接码",
+          "url": "https://hero-sms.com/cn",
+          "description": "",
+          "icon": ""
         }
       ]
     },
