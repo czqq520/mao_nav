@@ -936,6 +936,13 @@ export const mockData = {
           "url": "https://vid.suptools.win/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1788445047706",
+          "name": "对话生成工具",
+          "url": "https://www.wsjtxia.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
