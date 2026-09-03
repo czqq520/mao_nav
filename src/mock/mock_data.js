@@ -224,6 +224,13 @@ export const mockData = {
           "url": "https://yingma.tv/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1788425910657",
+          "name": "梦迈视觉",
+          "url": "https://www.moodmax.cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
