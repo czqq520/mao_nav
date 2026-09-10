@@ -624,8 +624,8 @@ export const mockData = {
         {
           "id": "site-1781917776541",
           "name": "AIDIR创作社区",
-          "url": "https://aidir.cn/",
-          "description": "https://my.feishu.cn/wiki/LKINwC7IGiB9QNkINNvcdbi3nsc",
+          "url": "https://my.feishu.cn/wiki/LKINwC7IGiB9QNkINNvcdbi3nsc",
+          "description": "",
           "icon": "/sitelogo/cloud.tencent.com.ico"
         },
         {
