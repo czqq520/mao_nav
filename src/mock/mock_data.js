@@ -346,13 +346,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1786810295421",
-          "name": "VSC社区 ",
-          "url": "https://vibeshot.club/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1788319352084",
           "name": "apimart【平台+中转】",
           "url": "https://apimart.ai/zh/overview",
