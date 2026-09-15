@@ -1915,6 +1915,21 @@ export const mockData = {
           "icon": ""
         }
       ]
+    },
+    {
+      "id": "category-1789464149839",
+      "icon": "📁",
+      "name": "Youtube频道",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1789464179536",
+          "name": "social  blade",
+          "url": "https://socialblade.com/",
+          "description": "",
+          "icon": ""
+        }
+      ]
     }
   ],
   "title": "导航"
