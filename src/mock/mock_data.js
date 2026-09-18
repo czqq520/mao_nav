@@ -390,6 +390,13 @@ export const mockData = {
       "order": 5,
       "sites": [
         {
+          "id": "site-1789709945747",
+          "name": "OpenLUX【云雾】",
+          "url": "https://api.openlux.ai/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1788317573491",
           "name": "deepseek【api】",
           "url": "https://platform.deepseek.com/usage",
