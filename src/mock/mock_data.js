@@ -56,6 +56,13 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1790142055177",
+          "name": "X榜单",
+          "url": "https://xbangdan.com/articles/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1782221209813",
           "name": "油管",
           "url": "https://www.youtube.com/",
