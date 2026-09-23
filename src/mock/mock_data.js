@@ -108,7 +108,7 @@ export const mockData = {
         {
           "id": "site-1781922217097",
           "name": "刺猬星球",
-          "url": "https://www.super-i.cn/?share=o20ma0mbbpdi5bST",
+          "url": "https://www.super-i.cn/tool.html",
           "description": "",
           "icon": ""
         },
