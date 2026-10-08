@@ -42,13 +42,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1782220333652",
-          "name": "要福利",
-          "url": "https://1fu.li",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1782221166493",
           "name": "L站",
           "url": "https://linux.do/top?period=daily",
@@ -108,6 +101,13 @@ export const mockData = {
           "id": "site-1787542175493",
           "name": "D3联盟",
           "url": "https://d3al.xyz/affiliate",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791448748533",
+          "name": "storyshort",
+          "url": "https://storyshort.ai/affiliate/dashboard",
           "description": "",
           "icon": ""
         }
