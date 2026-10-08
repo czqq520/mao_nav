@@ -191,6 +191,27 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1791450271143",
+          "name": "小云雀",
+          "url": "https://www.xiaoyunque.com/home?from_page=xiaoyunque_landing_page&tab_name=home",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791450303443",
+          "name": "libTV",
+          "url": "https://www.liblib.tv/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791450334363",
+          "name": "CineART",
+          "url": "https://app.cineart.ai/?lang=zh-CN",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1788232563804",
           "name": "flowpix",
           "url": "https://www.flowpix.club/",
