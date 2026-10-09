@@ -247,6 +247,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1791555314714",
+          "name": "提示词收集",
+          "url": "https://www.flowpix.club/bj/46046.html?token=d6848b1bef006868dcaf30e9f1b954d6",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1781921631726",
           "name": "Ai通识课",
           "url": "https://aipath.buynao.com/#/",
