@@ -134,13 +134,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1782027438227",
-          "name": "cloudstudio",
-          "url": "https://cloudstudio.net/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1782044489172",
           "name": "vibe",
           "url": "https://www.vibevibe.cn/zh/",
