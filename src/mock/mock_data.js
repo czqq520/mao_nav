@@ -120,13 +120,6 @@ export const mockData = {
       "order": 1,
       "sites": [
         {
-          "id": "site-1788232528108",
-          "name": "flova",
-          "url": "https://flova.tv/zh-CN/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1791450271143",
           "name": "小云雀",
           "url": "https://www.xiaoyunque.com/home?from_page=xiaoyunque_landing_page&tab_name=home",
@@ -141,16 +134,23 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1791450334363",
-          "name": "CineART",
-          "url": "https://app.cineart.ai/?lang=zh-CN",
+          "id": "site-1788232563804",
+          "name": "flowpix",
+          "url": "https://www.flowpix.club/",
           "description": "",
           "icon": ""
         },
         {
-          "id": "site-1788232563804",
-          "name": "flowpix",
-          "url": "https://www.flowpix.club/",
+          "id": "site-1788232528108",
+          "name": "flova",
+          "url": "https://flova.tv/zh-CN/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791450334363",
+          "name": "CineART",
+          "url": "https://app.cineart.ai/?lang=zh-CN",
           "description": "",
           "icon": ""
         },
@@ -200,6 +200,20 @@ export const mockData = {
           "id": "site-1791533626124",
           "name": "OpenLUX【中转】",
           "url": "https://www.openlux.ai/console/topup",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791535416719",
+          "name": "gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791535441518",
+          "name": "google ai studio",
+          "url": "https://aistudio.google.com/prompts/new_chat",
           "description": "",
           "icon": ""
         }
