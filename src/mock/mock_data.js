@@ -411,28 +411,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1786810155116",
-      "icon": "📁",
-      "name": "Ai提示词",
-      "order": 4,
-      "sites": [
-        {
-          "id": "site-1786810199094",
-          "name": "GEM  nano",
-          "url": "https://gemnana.com/zh/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1786810225885",
-          "name": "X提示词 ",
-          "url": "https://twitterhot.vercel.app/",
-          "description": "",
-          "icon": ""
-        }
-      ]
-    },
-    {
       "id": "category-1781920810129",
       "icon": "🎮",
       "name": "Ai中转站👇",
