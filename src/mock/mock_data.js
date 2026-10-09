@@ -252,6 +252,13 @@ export const mockData = {
           "url": "https://yingma.tv/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1791533626124",
+          "name": "OpenLUX【中转】",
+          "url": "https://www.openlux.ai/console/topup",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -417,13 +424,6 @@ export const mockData = {
       "name": "Ai中转站👇",
       "order": 5,
       "sites": [
-        {
-          "id": "site-1789709945747",
-          "name": "OpenLUX【云雾】",
-          "url": "https://api.openlux.ai/",
-          "description": "",
-          "icon": ""
-        },
         {
           "id": "site-1788317573491",
           "name": "deepseek【api】",
