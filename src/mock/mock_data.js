@@ -978,6 +978,13 @@ export const mockData = {
           "url": "http://crt.name/v1/search?apex=123bw.cn",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1791517135941",
+          "name": "在线翻译",
+          "url": "https://translate.sogou.com/text",
+          "description": "",
+          "icon": ""
         }
       ]
     },
