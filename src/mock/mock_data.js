@@ -114,67 +114,10 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1781921552643",
-      "icon": "💼",
-      "name": "学习网站👇",
-      "order": 1,
-      "sites": [
-        {
-          "id": "site-1781922217097",
-          "name": "刺猬星球",
-          "url": "https://www.super-i.cn/tool.html",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1781921631726",
-          "name": "Ai通识课",
-          "url": "https://aipath.buynao.com/#/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782044489172",
-          "name": "vibe",
-          "url": "https://www.vibevibe.cn/zh/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782045061621",
-          "name": "Claude Code 免费从入门到精通",
-          "url": "https://claudecode.tangshuang.net/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1786067845596",
-          "name": "学AI.app",
-          "url": "https://xueai.app/slides/home.html",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1787108363943",
-          "name": "hermes爱马仕",
-          "url": "https://hermes-agent.nousresearch.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1787540423499",
-          "name": "秘塔H3教程",
-          "url": "https://metaso.cn/minimax-h3/guide",
-          "description": "",
-          "icon": ""
-        }
-      ]
-    },
-    {
       "id": "category-1787966277502",
       "icon": "📁",
       "name": "Ai平台👇",
-      "order": 2,
+      "order": 1,
       "sites": [
         {
           "id": "site-1788232528108",
@@ -257,6 +200,63 @@ export const mockData = {
           "id": "site-1791533626124",
           "name": "OpenLUX【中转】",
           "url": "https://www.openlux.ai/console/topup",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1781921552643",
+      "icon": "💼",
+      "name": "学习网站👇",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1781922217097",
+          "name": "刺猬星球",
+          "url": "https://www.super-i.cn/tool.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1781921631726",
+          "name": "Ai通识课",
+          "url": "https://aipath.buynao.com/#/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782044489172",
+          "name": "vibe",
+          "url": "https://www.vibevibe.cn/zh/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782045061621",
+          "name": "Claude Code 免费从入门到精通",
+          "url": "https://claudecode.tangshuang.net/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786067845596",
+          "name": "学AI.app",
+          "url": "https://xueai.app/slides/home.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1787108363943",
+          "name": "hermes爱马仕",
+          "url": "https://hermes-agent.nousresearch.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1787540423499",
+          "name": "秘塔H3教程",
+          "url": "https://metaso.cn/minimax-h3/guide",
           "description": "",
           "icon": ""
         }
@@ -391,6 +391,20 @@ export const mockData = {
           "id": "site-1788359384752",
           "name": "xogpu【平台+中转】",
           "url": "https://xogpu.com/image-playground",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791534563685",
+          "name": "gemnana",
+          "url": "https://gemnana.com/zh/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791534579333",
+          "name": "x提示词",
+          "url": "https://twitterhot.vercel.app/",
           "description": "",
           "icon": ""
         }
