@@ -110,6 +110,20 @@ export const mockData = {
           "url": "https://d3al.xyz/affiliate",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1791624273133",
+          "name": "sopilot【X】",
+          "url": "https://sopilot.net/zh",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791624414849",
+          "name": "trends【谷歌】",
+          "url": "https://trends.google.com/trending",
+          "description": "",
+          "icon": ""
         }
       ]
     },
