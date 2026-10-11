@@ -1005,6 +1005,13 @@ export const mockData = {
           "url": "https://translate.sogou.com/text",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1791730201866",
+          "name": "谷歌网站查询",
+          "url": "https://cruxvis.withgoogle.com/#/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
