@@ -480,13 +480,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1781940756321",
-          "name": "太极Ai【每日】",
-          "url": "https://www.taijiai666.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1782091394735",
           "name": "ryanai【每日】",
           "url": "https://ryanai.org/",
