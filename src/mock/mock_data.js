@@ -77,6 +77,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1791773925223",
+          "name": "独角鲸云",
+          "url": "https://fuckip.me/zh",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1786810357542",
           "name": "Aihot卡兹克",
           "url": "https://aihot.virxact.com/",
