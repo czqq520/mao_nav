@@ -353,9 +353,9 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
-          "id": "site-1781917860574",
-          "name": "职场人备胎计划",
-          "url": "https://xuqiwei1986.feishu.cn/wiki/ZPkSwAwhRibRFPkPXWRcKE6jn3e",
+          "id": "site-1782030902983",
+          "name": "西羊石AI",
+          "url": "https://xiyangshiai.feishu.cn/wiki/IvuCwJhLmiQs6Yk38qyc7voXn3f",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
@@ -370,13 +370,6 @@ export const mockData = {
           "id": "site-1782026843390",
           "name": "Ai知识铺",
           "url": "https://kcnj7yazgs86.feishu.cn/wiki/IHNxwqoGWiutRfkW7z4cl2v1nTb",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782030902983",
-          "name": "西羊石AI",
-          "url": "https://www.feishu.cn/community/article?id=7566616559762800641&sortOrder=latest&from=share",
           "description": "",
           "icon": ""
         }
