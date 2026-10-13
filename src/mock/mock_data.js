@@ -896,13 +896,6 @@ export const mockData = {
       "order": 7,
       "sites": [
         {
-          "id": "site-1761572637858",
-          "name": "妙搜云",
-          "url": "https://msmy.cn/",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1781941635562",
           "name": "飞搜侠",
           "url": "https://www.feisoo.com/",
@@ -945,23 +938,9 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1782048282522",
-          "name": "w网盘资源",
-          "url": "https://www.daiguaji.com/index.php",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1782048317114",
           "name": "热盘搜（百度）",
           "url": "http://www.repanso.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782048794515",
-          "name": "Ai资源帮",
-          "url": "https://ai-zyb.com/",
           "description": "",
           "icon": ""
         },
