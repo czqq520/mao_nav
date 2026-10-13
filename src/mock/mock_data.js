@@ -681,6 +681,13 @@ export const mockData = {
           "url": "https://cruxvis.withgoogle.com/#/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1791861396953",
+          "name": "深圳地铁线路图",
+          "url": "https://szmc-intweb.shenzhenmc.com/app/feature/subwaymap/#/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
