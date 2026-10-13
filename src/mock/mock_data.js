@@ -57,7 +57,7 @@ export const mockData = {
         },
         {
           "id": "site-1790142055177",
-          "name": "X榜单",
+          "name": "X榜单【X】",
           "url": "https://xbangdan.com/articles/",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
@@ -78,14 +78,14 @@ export const mockData = {
         },
         {
           "id": "site-1791448748533",
-          "name": "storyshort",
+          "name": "storyshort【CPS】",
           "url": "https://storyshort.ai/affiliate/dashboard",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1791773925223",
-          "name": "独角鲸云",
+          "name": "独角鲸云【节点】",
           "url": "https://fuckip.me/zh",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
@@ -99,7 +99,7 @@ export const mockData = {
         },
         {
           "id": "site-1787542175493",
-          "name": "D3联盟",
+          "name": "D3联盟【CPS】",
           "url": "https://d3al.xyz/affiliate",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
@@ -258,6 +258,13 @@ export const mockData = {
           "url": "https://www.topview.ai/zh",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1791857861110",
+          "name": "image2【提示词】",
+          "url": "https://gpt-image2.canghe.ai/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -276,7 +283,7 @@ export const mockData = {
         },
         {
           "id": "site-1791555314714",
-          "name": "提示词收集",
+          "name": "刺猬丨提示词收集",
           "url": "https://www.flowpix.club/bj/46046.html?token=d6848b1bef006868dcaf30e9f1b954d6",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
