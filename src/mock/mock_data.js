@@ -265,6 +265,13 @@ export const mockData = {
           "url": "https://gpt-image2.canghe.ai/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1791992508678",
+          "name": "opennana【提示词】",
+          "url": "https://opennana.com/awesome-prompt-gallery",
+          "description": "",
+          "icon": ""
         }
       ]
     },
