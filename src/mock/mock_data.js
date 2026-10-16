@@ -684,7 +684,7 @@ export const mockData = {
         },
         {
           "id": "site-1791517135941",
-          "name": "在线翻译",
+          "name": "搜狗翻译",
           "url": "https://translate.sogou.com/text",
           "description": "",
           "icon": ""
