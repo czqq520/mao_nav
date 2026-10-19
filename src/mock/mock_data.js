@@ -1594,6 +1594,13 @@ export const mockData = {
       "order": 12,
       "sites": [
         {
+          "id": "site-1792412869613",
+          "name": "花叔【skill】",
+          "url": "https://github.com/alchaincyf/huashu-motion",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1782027955291",
           "name": "视频转换手绘故事",
           "url": "https://github.com/RanFeng/clipsketch-ai",
