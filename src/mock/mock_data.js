@@ -881,6 +881,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1792552770024",
+          "name": "字幕工厂",
+          "url": "https://www.transub.cc/",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1782027640365",
           "name": "星空桌面",
           "url": "https://stellarium.org/",
