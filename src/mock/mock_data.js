@@ -152,6 +152,13 @@ export const mockData = {
           "url": "https://trends.google.com/trending",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1792567535574",
+          "name": "minimax H3",
+          "url": "https://metaso.cn/minimax-h3",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
         }
       ]
     },
