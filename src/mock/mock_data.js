@@ -159,6 +159,13 @@ export const mockData = {
           "url": "https://metaso.cn/minimax-h3",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1792569393308",
+          "name": "蜗牛云",
+          "url": "https://8.217.75.79:1000/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
