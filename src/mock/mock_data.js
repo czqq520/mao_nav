@@ -888,6 +888,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1792552955224",
+          "name": "UU远程",
+          "url": "https://uuyc.163.com/",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1782027640365",
           "name": "星空桌面",
           "url": "https://stellarium.org/",
