@@ -398,7 +398,7 @@ export const mockData = {
           "id": "site-1791863289171",
           "name": "生财文档",
           "url": "https://tva72pw5fxw.feishu.cn/wiki/Was0w9a15iSg3RkXThzcgQ5UnOd",
-          "description": "",
+          "description": "yy666888",
           "icon": "https://123bw.cn/logo.png"
         },
         {
