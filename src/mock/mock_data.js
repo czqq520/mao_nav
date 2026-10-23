@@ -77,13 +77,6 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
-          "id": "site-1791448748533",
-          "name": "storyshort【CPS】",
-          "url": "https://storyshort.ai/affiliate/dashboard",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
           "id": "site-1787542175493",
           "name": "D3联盟【CPS】",
           "url": "https://d3al.xyz/affiliate",
