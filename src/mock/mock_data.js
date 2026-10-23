@@ -188,6 +188,13 @@ export const mockData = {
           "url": "https://www.gamsgo.com/zh/affiliate/overview",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1792739322398",
+          "name": "storyshort【CPS】",
+          "url": "https://storyshort.ai/affiliate/dashboard",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
         }
       ]
     },
