@@ -177,10 +177,25 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1787966277502",
-      "icon": "📁",
-      "name": "Ai平台👇",
+      "id": "category-1792738982911",
+      "icon": "🔍",
+      "name": "CPS",
       "order": 1,
+      "sites": [
+        {
+          "id": "site-1792739095151",
+          "name": "gamsgo",
+          "url": "https://www.gamsgo.com/zh/affiliate/overview",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "category-1787966277502",
+      "icon": "🔍",
+      "name": "Ai平台👇",
+      "order": 2,
       "sites": [
         {
           "id": "site-1791450271143",
@@ -326,9 +341,9 @@ export const mockData = {
     },
     {
       "id": "category-1781921552643",
-      "icon": "💼",
+      "icon": "🔍",
       "name": "学习网站👇",
-      "order": 2,
+      "order": 3,
       "sites": [
         {
           "id": "site-1781922217097",
@@ -390,9 +405,9 @@ export const mockData = {
     },
     {
       "id": "category-1761118456697",
-      "icon": "👥",
+      "icon": "🔍",
       "name": "飞书文档👇",
-      "order": 3,
+      "order": 4,
       "sites": [
         {
           "id": "site-1791863289171",
@@ -448,8 +463,8 @@ export const mockData = {
     {
       "id": "cloud",
       "name": "网页工具👇",
-      "icon": "🎨",
-      "order": 4,
+      "icon": "🔍",
+      "order": 5,
       "sites": [
         {
           "id": "cloudflare",
@@ -756,9 +771,9 @@ export const mockData = {
     },
     {
       "id": "category-1782047454474",
-      "icon": "📊",
+      "icon": "🔍",
       "name": "网页平台👇",
-      "order": 5,
+      "order": 6,
       "sites": [
         {
           "id": "site-1782047464612",
@@ -890,9 +905,9 @@ export const mockData = {
     },
     {
       "id": "category-1782027628229",
-      "icon": "🌐",
+      "icon": "🔍",
       "name": "软件网站👇",
-      "order": 6,
+      "order": 7,
       "sites": [
         {
           "id": "site-1791858855383",
@@ -968,9 +983,9 @@ export const mockData = {
     },
     {
       "id": "category-1761117928853",
-      "icon": "📚",
+      "icon": "🔍",
       "name": "资源搜索👇",
-      "order": 7,
+      "order": 8,
       "sites": [
         {
           "id": "site-1781941635562",
@@ -1111,7 +1126,7 @@ export const mockData = {
       "id": "category-1782026381744",
       "icon": "🔍",
       "name": "图片文档处理👇",
-      "order": 8,
+      "order": 9,
       "sites": [
         {
           "id": "site-1782026412393",
@@ -1153,8 +1168,8 @@ export const mockData = {
     {
       "id": "ai-tools",
       "name": "Ai创作台👇",
-      "icon": "📁",
-      "order": 9,
+      "icon": "🔍",
+      "order": 10,
       "sites": [
         {
           "id": "site-1786893659719",
@@ -1279,9 +1294,9 @@ export const mockData = {
     },
     {
       "id": "category-1781920810129",
-      "icon": "🎮",
+      "icon": "🔍",
       "name": "Ai中转站👇",
-      "order": 10,
+      "order": 11,
       "sites": [
         {
           "id": "site-1788317573491",
@@ -1469,9 +1484,9 @@ export const mockData = {
     },
     {
       "id": "category-1781918114539",
-      "icon": "⚙️",
+      "icon": "🔍",
       "name": "跨境导航👇",
-      "order": 11,
+      "order": 12,
       "sites": [
         {
           "id": "site-1781918144691",
@@ -1624,9 +1639,9 @@ export const mockData = {
     },
     {
       "id": "category-1781922146783",
-      "icon": "🔧",
+      "icon": "🔍",
       "name": "github项目👇",
-      "order": 12,
+      "order": 13,
       "sites": [
         {
           "id": "site-1792412869613",
@@ -1681,9 +1696,9 @@ export const mockData = {
     },
     {
       "id": "category-1782025625444",
-      "icon": "💻",
+      "icon": "🔍",
       "name": "新奇网站👇",
-      "order": 13,
+      "order": 14,
       "sites": [
         {
           "id": "site-1782025638793",
@@ -1801,9 +1816,9 @@ export const mockData = {
     },
     {
       "id": "category-1782033711620",
-      "icon": "🎵",
+      "icon": "🔍",
       "name": "影视网站👇",
-      "order": 14,
+      "order": 15,
       "sites": [
         {
           "id": "site-1782033720828",
@@ -1923,7 +1938,7 @@ export const mockData = {
       "id": "category-1786626881364",
       "icon": "🔍",
       "name": "账号平台👇",
-      "order": 15,
+      "order": 16,
       "sites": [
         {
           "id": "site-1786626894310",
@@ -1943,9 +1958,9 @@ export const mockData = {
     },
     {
       "id": "category-1781921601324",
-      "icon": "☁️",
+      "icon": "🔍",
       "name": "其他分类👇",
-      "order": 16,
+      "order": 17,
       "sites": [
         {
           "id": "site-1781940972465",
@@ -2007,9 +2022,9 @@ export const mockData = {
     },
     {
       "id": "category-1782030115606",
-      "icon": "📱",
+      "icon": "🔍",
       "name": "其他1",
-      "order": 17,
+      "order": 18,
       "sites": [
         {
           "id": "site-1782030126363",
