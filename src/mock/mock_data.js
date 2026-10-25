@@ -985,6 +985,13 @@ export const mockData = {
           "url": "https://zhs.moo0.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1792915247936",
+          "name": "国际APP",
+          "url": "https://apkpure.com/cn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
