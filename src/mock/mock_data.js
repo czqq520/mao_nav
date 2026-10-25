@@ -766,6 +766,13 @@ export const mockData = {
           "url": "https://szmc-intweb.shenzhenmc.com/app/feature/subwaymap/#/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1792913496338",
+          "name": "IP纯净度",
+          "url": "https://ip.xiaonezha.shop/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
