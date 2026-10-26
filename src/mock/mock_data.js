@@ -166,6 +166,13 @@ export const mockData = {
           "url": "https://synthora.cn/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1792993413890",
+          "name": "谷歌【Vids】",
+          "url": "https://docs.google.com/videos/u/0/?pli=1",
+          "description": "",
+          "icon": ""
         }
       ]
     },
