@@ -180,6 +180,13 @@ export const mockData = {
           "url": "https://vk.ru/",
           "description": "Czqcrb520",
           "icon": ""
+        },
+        {
+          "id": "site-1793002813449",
+          "name": "Ai情报站",
+          "url": "https://lab.ytdeepsea.com/radar/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
