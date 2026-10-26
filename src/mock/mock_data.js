@@ -173,6 +173,13 @@ export const mockData = {
           "url": "https://docs.google.com/videos/u/0/?pli=1",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1793000591743",
+          "name": "VKRU",
+          "url": "https://vk.ru/",
+          "description": "Czqcrb520",
+          "icon": ""
         }
       ]
     },
