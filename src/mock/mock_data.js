@@ -187,6 +187,13 @@ export const mockData = {
           "url": "https://lab.ytdeepsea.com/radar/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1793170728748",
+          "name": "instabox.sh",
+          "url": "https://instabox.sh/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
