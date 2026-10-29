@@ -194,6 +194,13 @@ export const mockData = {
           "url": "https://instabox.sh/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1793261979722",
+          "name": "flatkey【api】",
+          "url": "https://console.flatkey.ai/dashboard/overview",
+          "description": "",
+          "icon": ""
         }
       ]
     },
