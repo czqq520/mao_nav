@@ -201,6 +201,13 @@ export const mockData = {
           "url": "https://console.flatkey.ai/dashboard/overview",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1793263256666",
+          "name": "ip cha",
+          "url": "https://ip.net.coffee/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
