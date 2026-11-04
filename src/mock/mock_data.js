@@ -215,6 +215,13 @@ export const mockData = {
           "url": "https://anlibili-site-bxlxh4ai.teamily.run/#/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1793790441678",
+          "name": "豆包工作案例库",
+          "url": "https://bytedance.feishuapp.com/app/app_17bcpgp1v96/all",
+          "description": "",
+          "icon": ""
         }
       ]
     },
