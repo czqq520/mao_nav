@@ -254,6 +254,13 @@ export const mockData = {
       "order": 2,
       "sites": [
         {
+          "id": "site-1793795930498",
+          "name": "muse",
+          "url": "https://muse.ai/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1791450271143",
           "name": "小云雀",
           "url": "https://www.xiaoyunque.com/home?from_page=xiaoyunque_landing_page&tab_name=home",
