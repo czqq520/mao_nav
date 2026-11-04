@@ -208,6 +208,13 @@ export const mockData = {
           "url": "https://ip.net.coffee/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1793774732986",
+          "name": "B站热门",
+          "url": "https://anlibili-site-bxlxh4ai.teamily.run/#/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
