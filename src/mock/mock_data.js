@@ -239,6 +239,34 @@ export const mockData = {
           "icon": ""
         },
         {
+          "id": "site-1793798020598",
+          "name": "chatGPT",
+          "url": "https://chatgpt.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1791535416719",
+          "name": "gemini",
+          "url": "https://gemini.google.com/app",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1791535441518",
+          "name": "google ai studio",
+          "url": "https://aistudio.google.com/prompts/new_chat",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1792143766896",
+          "name": "谷歌flow",
+          "url": "https://flow.google.com/",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1791450271143",
           "name": "小云雀",
           "url": "https://www.xiaoyunque.com/home?from_page=xiaoyunque_landing_page&tab_name=home",
@@ -267,20 +295,6 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
-          "id": "site-1791535416719",
-          "name": "gemini",
-          "url": "https://gemini.google.com/app",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1791535441518",
-          "name": "google ai studio",
-          "url": "https://aistudio.google.com/prompts/new_chat",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
           "id": "site-1791535628198",
           "name": "即梦AI",
           "url": "https://jimeng.jianying.com/ai-tool/home/",
@@ -291,13 +305,6 @@ export const mockData = {
           "id": "site-1791535763846",
           "name": "tapnow",
           "url": "https://app.tapnow.ai/home",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1792143766896",
-          "name": "谷歌flow",
-          "url": "https://flow.google.com/",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
@@ -386,6 +393,13 @@ export const mockData = {
       "name": "Ai中转站👇",
       "order": 2,
       "sites": [
+        {
+          "id": "site-1793798105247",
+          "name": "openLUX",
+          "url": "https://www.openlux.ai/console/topup",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
         {
           "id": "site-1788317573491",
           "name": "deepseek【api】",
