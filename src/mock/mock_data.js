@@ -105,20 +105,6 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
-          "id": "site-1792488360537",
-          "name": "Xogpu【中转】",
-          "url": "https://xogpu.com/image-playground",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1792488437009",
-          "name": "Comfly【中转】",
-          "url": "https://ai.comfly.org/",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
           "id": "site-1786810357542",
           "name": "Aihot卡兹克",
           "url": "https://aihot.virxact.com/",
@@ -397,6 +383,20 @@ export const mockData = {
           "id": "site-1793798105247",
           "name": "openLUX",
           "url": "https://www.openlux.ai/console/topup",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1793846333980",
+          "name": "xogpu",
+          "url": "https://xogpu.com/image-playground",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1793846383043",
+          "name": "comfly",
+          "url": "https://ai.comfly.org/",
           "description": "",
           "icon": "https://123bw.cn/logo.png"
         },
