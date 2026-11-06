@@ -370,6 +370,13 @@ export const mockData = {
           "url": "https://opennana.com/awesome-prompt-gallery",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1793978825650",
+          "name": "谷歌colab",
+          "url": "https://colab.research.google.com/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
