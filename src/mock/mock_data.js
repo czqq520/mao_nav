@@ -212,10 +212,153 @@ export const mockData = {
       ]
     },
     {
+      "id": "category-1792738982911",
+      "icon": "🔍",
+      "name": "CPS",
+      "order": 1,
+      "sites": [
+        {
+          "id": "site-1792739095151",
+          "name": "gamsgo",
+          "url": "https://www.gamsgo.com/zh/affiliate/overview",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1792739322398",
+          "name": "storyshort【CPS】",
+          "url": "https://storyshort.ai/affiliate/dashboard",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        }
+      ]
+    },
+    {
+      "id": "category-1781921552643",
+      "icon": "🔍",
+      "name": "学习网站👇",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1781922217097",
+          "name": "刺猬星球",
+          "url": "https://www.super-i.cn/tool.html",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1791555314714",
+          "name": "刺猬丨提示词收集",
+          "url": "https://www.flowpix.club/bj/46046.html?token=d6848b1bef006868dcaf30e9f1b954d6",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1781921631726",
+          "name": "Ai通识课",
+          "url": "https://aipath.buynao.com/#/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782044489172",
+          "name": "vibe",
+          "url": "https://www.vibevibe.cn/zh/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782045061621",
+          "name": "Claude Code 免费从入门到精通",
+          "url": "https://claudecode.tangshuang.net/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1786067845596",
+          "name": "学AI.app",
+          "url": "https://xueai.app/slides/home.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1787108363943",
+          "name": "hermes爱马仕",
+          "url": "https://hermes-agent.nousresearch.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1787540423499",
+          "name": "秘塔H3教程",
+          "url": "https://metaso.cn/minimax-h3/guide",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1761118456697",
+      "icon": "🔍",
+      "name": "飞书文档👇",
+      "order": 3,
+      "sites": [
+        {
+          "id": "site-1791863289171",
+          "name": "生财文档",
+          "url": "https://tva72pw5fxw.feishu.cn/wiki/Was0w9a15iSg3RkXThzcgQ5UnOd",
+          "description": "yy666888丨sc666888",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1781931886736",
+          "name": "飞书文档（备份）",
+          "url": "https://my.feishu.cn/wiki/space/7551729662934761474?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1781917776541",
+          "name": "AIDIR创作社区",
+          "url": "https://my.feishu.cn/wiki/LKINwC7IGiB9QNkINNvcdbi3nsc",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1781917822359",
+          "name": "通往AIGC之路",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1782030902983",
+          "name": "西羊石AI",
+          "url": "https://xiyangshiai.feishu.cn/wiki/IvuCwJhLmiQs6Yk38qyc7voXn3f",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
+          "id": "site-1781943197153",
+          "name": "万象Ai实验室",
+          "url": "https://yunyinghui.feishu.cn/wiki/WhelwZnxQi55mpkOzatc3Xran5b",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1782026843390",
+          "name": "Ai知识铺",
+          "url": "https://kcnj7yazgs86.feishu.cn/wiki/IHNxwqoGWiutRfkW7z4cl2v1nTb",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
       "id": "category-1787966277502",
       "icon": "🔍",
       "name": "Ai平台👇",
-      "order": 1,
+      "order": 4,
       "sites": [
         {
           "id": "site-1793795930498",
@@ -384,7 +527,7 @@ export const mockData = {
       "id": "category-1781920810129",
       "icon": "🔍",
       "name": "Ai中转站👇",
-      "order": 2,
+      "order": 5,
       "sites": [
         {
           "id": "site-1793798105247",
@@ -592,154 +735,18 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-1792738982911",
-      "icon": "🔍",
-      "name": "CPS",
-      "order": 3,
-      "sites": [
-        {
-          "id": "site-1792739095151",
-          "name": "gamsgo",
-          "url": "https://www.gamsgo.com/zh/affiliate/overview",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1792739322398",
-          "name": "storyshort【CPS】",
-          "url": "https://storyshort.ai/affiliate/dashboard",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        }
-      ]
-    },
-    {
-      "id": "category-1781921552643",
-      "icon": "🔍",
-      "name": "学习网站👇",
-      "order": 4,
-      "sites": [
-        {
-          "id": "site-1781922217097",
-          "name": "刺猬星球",
-          "url": "https://www.super-i.cn/tool.html",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1791555314714",
-          "name": "刺猬丨提示词收集",
-          "url": "https://www.flowpix.club/bj/46046.html?token=d6848b1bef006868dcaf30e9f1b954d6",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1781921631726",
-          "name": "Ai通识课",
-          "url": "https://aipath.buynao.com/#/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782044489172",
-          "name": "vibe",
-          "url": "https://www.vibevibe.cn/zh/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782045061621",
-          "name": "Claude Code 免费从入门到精通",
-          "url": "https://claudecode.tangshuang.net/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1786067845596",
-          "name": "学AI.app",
-          "url": "https://xueai.app/slides/home.html",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1787108363943",
-          "name": "hermes爱马仕",
-          "url": "https://hermes-agent.nousresearch.com/",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1787540423499",
-          "name": "秘塔H3教程",
-          "url": "https://metaso.cn/minimax-h3/guide",
-          "description": "",
-          "icon": ""
-        }
-      ]
-    },
-    {
-      "id": "category-1761118456697",
-      "icon": "🔍",
-      "name": "飞书文档👇",
-      "order": 5,
-      "sites": [
-        {
-          "id": "site-1791863289171",
-          "name": "生财文档",
-          "url": "https://tva72pw5fxw.feishu.cn/wiki/Was0w9a15iSg3RkXThzcgQ5UnOd",
-          "description": "yy666888丨sc666888",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1781931886736",
-          "name": "飞书文档（备份）",
-          "url": "https://my.feishu.cn/wiki/space/7551729662934761474?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1781917776541",
-          "name": "AIDIR创作社区",
-          "url": "https://my.feishu.cn/wiki/LKINwC7IGiB9QNkINNvcdbi3nsc",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1781917822359",
-          "name": "通往AIGC之路",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1782030902983",
-          "name": "西羊石AI",
-          "url": "https://xiyangshiai.feishu.cn/wiki/IvuCwJhLmiQs6Yk38qyc7voXn3f",
-          "description": "",
-          "icon": "https://123bw.cn/logo.png"
-        },
-        {
-          "id": "site-1781943197153",
-          "name": "万象Ai实验室",
-          "url": "https://yunyinghui.feishu.cn/wiki/WhelwZnxQi55mpkOzatc3Xran5b",
-          "description": "",
-          "icon": ""
-        },
-        {
-          "id": "site-1782026843390",
-          "name": "Ai知识铺",
-          "url": "https://kcnj7yazgs86.feishu.cn/wiki/IHNxwqoGWiutRfkW7z4cl2v1nTb",
-          "description": "",
-          "icon": ""
-        }
-      ]
-    },
-    {
       "id": "cloud",
       "name": "网页工具👇",
       "icon": "🔍",
       "order": 6,
       "sites": [
+        {
+          "id": "site-1787188773628",
+          "name": "x下载",
+          "url": "https://savetwitter.net/zh-cn3",
+          "description": "",
+          "icon": ""
+        },
         {
           "id": "cloudflare",
           "name": "i导航解析器",
@@ -986,13 +993,6 @@ export const mockData = {
           "icon": ""
         },
         {
-          "id": "site-1787188773628",
-          "name": "x下载",
-          "url": "https://savetwitter.net/zh-cn3",
-          "description": "",
-          "icon": ""
-        },
-        {
           "id": "site-1788357831246",
           "name": "greenvideo下载",
           "url": "https://greenvideo.cc/",
@@ -1045,6 +1045,13 @@ export const mockData = {
           "id": "site-1792913496338",
           "name": "IP纯净度",
           "url": "https://ip.xiaonezha.shop/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794018663112",
+          "name": "免费Ai SEO",
+          "url": "https://aitdk.com/zh",
           "description": "",
           "icon": ""
         }
@@ -1190,6 +1197,13 @@ export const mockData = {
       "name": "软件网站👇",
       "order": 8,
       "sites": [
+        {
+          "id": "site-1794018100007",
+          "name": "叭哥说",
+          "url": "https://bug.youdao.com/",
+          "description": "",
+          "icon": ""
+        },
         {
           "id": "site-1791858855383",
           "name": "录屏软件",
