@@ -2193,6 +2193,13 @@ export const mockData = {
           "url": "https://1poa.org/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1794058563709",
+          "name": "box.simular云服务",
+          "url": "https://box.simular.ai/",
+          "description": "123",
+          "icon": ""
         }
       ]
     }
