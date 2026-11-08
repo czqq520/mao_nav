@@ -2096,6 +2096,13 @@ export const mockData = {
       "order": 17,
       "sites": [
         {
+          "id": "site-1794145755575",
+          "name": "edu邮箱 ",
+          "url": "https://mail.flame.edu.kg/inbox",
+          "description": "czqq520@flame.edu.kg",
+          "icon": ""
+        },
+        {
           "id": "site-1793774665406",
           "name": "jiemahao接码",
           "url": "https://jiemahao.com/",
