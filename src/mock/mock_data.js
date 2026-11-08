@@ -273,6 +273,13 @@ export const mockData = {
           "url": "https://metaso.cn/minimax-h3/guide",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1794148304793",
+          "name": "muse粉皮书",
+          "url": "https://chaojifeng.me/free-courses/muse",
+          "description": "",
+          "icon": ""
         }
       ]
     },
