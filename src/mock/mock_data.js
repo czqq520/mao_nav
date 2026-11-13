@@ -1860,6 +1860,13 @@ export const mockData = {
           "url": "https://github.com/youhunwl/TVAPP",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1794547628711",
+          "name": "v2rayN",
+          "url": "https://github.com/2dust/v2rayN",
+          "description": "",
+          "icon": ""
         }
       ]
     },
