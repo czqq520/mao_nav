@@ -240,6 +240,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1794652020064",
+          "name": "微信公众号",
+          "url": "https://mp.weixin.qq.com/",
+          "description": "",
+          "icon": "https://123bw.cn/logo.png"
+        },
+        {
           "id": "site-1794645368153",
           "name": "X文章库",
           "url": "http://117.72.48.250:3001/",
