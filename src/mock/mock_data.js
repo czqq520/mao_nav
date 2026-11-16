@@ -173,6 +173,13 @@ export const mockData = {
           "url": "https://so.qq.com/ihome",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1794800611772",
+          "name": "资源雷达",
+          "url": "https://radar.zichuanlan.top/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -511,6 +518,13 @@ export const mockData = {
           "id": "site-1791992508678",
           "name": "opennana【提示词】",
           "url": "https://opennana.com/awesome-prompt-gallery",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1794800638597",
+          "name": "lightvela",
+          "url": "https://lightvela.com/",
           "description": "",
           "icon": ""
         }
