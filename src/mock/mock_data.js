@@ -1838,7 +1838,7 @@ export const mockData = {
           "name": "design-style",
           "url": "https://github.com/guanmo-ai/design-style",
           "description": "",
-          "icon": ""
+          "icon": "https://123bw.cn/logo.png"
         },
         {
           "id": "site-1792412869613",
