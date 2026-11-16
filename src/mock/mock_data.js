@@ -1834,6 +1834,13 @@ export const mockData = {
       "order": 14,
       "sites": [
         {
+          "id": "site-1794833215052",
+          "name": "design-style",
+          "url": "https://github.com/guanmo-ai/design-style",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1792412869613",
           "name": "花叔【skill】",
           "url": "https://github.com/alchaincyf/huashu-motion",
