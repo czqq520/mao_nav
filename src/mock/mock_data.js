@@ -527,6 +527,13 @@ export const mockData = {
           "url": "https://lightvela.com/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1795016274380",
+          "name": "fish.audio语音",
+          "url": "https://fish.audio/zh-CN/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -1678,6 +1685,13 @@ export const mockData = {
       "name": "跨境导航👇",
       "order": 13,
       "sites": [
+        {
+          "id": "site-1795016232828",
+          "name": "shopify",
+          "url": "https://admin.shopify.com/store/i01jfz-ey/settings/general",
+          "description": "",
+          "icon": ""
+        },
         {
           "id": "site-1781918144691",
           "name": "欧洲跨境之路",
