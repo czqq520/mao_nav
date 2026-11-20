@@ -790,6 +790,13 @@ export const mockData = {
           "icon": "https://123bw.cn/logo.png"
         },
         {
+          "id": "site-1795137087924",
+          "name": "console.altare.gg/",
+          "url": "https://console.altare.gg/",
+          "description": "",
+          "icon": ""
+        },
+        {
           "id": "site-1782030126363",
           "name": "项目",
           "url": "https://juejin.cn/post/7553598949196021812",
